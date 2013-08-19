@@ -10,3 +10,7 @@ h1, h2, h3 {
 body, p, h4, h5, h6 {
   font-family: 'Noto Sans', sans-serif;
 }
+
+a {
+  color: #7A0019;
+}
