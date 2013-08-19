@@ -1,5 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Noto+Sans|Noto+Serif);
 
+@link-color: #7A0019;
+
 h1, h2, h3 {
   font-family: 'Noto Serif', serif;
   color: #7A0019;
