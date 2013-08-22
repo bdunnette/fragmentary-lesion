@@ -36,7 +36,7 @@
 		      {% assign page_level = page.path | split:'/' | size %}
 		      <script>console.log("{{page.path}}:{{page_level}}");</script>
 		      {% if page_level == menu_level %}
-			<li><a href="{{ page.url }}">{{ page.title }}</a></li>		      
+			<li><a href="{{ site.baseurl}}{{ page.url }}">{{ page.title }}</a></li>		      
 		      {% endif %}
 		    {% endfor %}
 		  {% endfor %}
