@@ -1,3 +1,4 @@
 name: Laboratory Medicine and Pathology Residency and Fellowship Programs
 markdown: redcarpet
 pygments: true
+redirects: yes
