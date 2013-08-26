@@ -1,0 +1,20 @@
+<ul>
+{% for page in site.pages %}
+    {% if page.categories contains 'training-site' %}
+        <div itemscope itemtype="http://schema.org/Organization">
+        <span itemprop="name"><h2>{{page.title}}</h2></span>
+        
+        {{page.content}}
+        
+        <div itemprop="address">
+            <span itemprop="streetAddress">{{page.streetAddress}}</span><br/>
+            <span itemprop="addressLocality">{{page.city}}</span> <span itemprop="postalCode">{{page.postalCode}}</span>
+        </div>
+        
+        Phone: <span itemprop="telephone">{{page.telephone}}</span><br/>
+        Fax: <span itemprop="faxNumber">{{page.faxNumber}}</span><br/>
+        <a href="{{page.link}}"><span itemprop="url">{{page.link}}</span></a>
+        </div>
+    {% endif %}
+{% endfor %}
+</ul>

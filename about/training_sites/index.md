@@ -1,8 +1,10 @@
 ---
 layout: default
-title: About Our Program
+title: Training Sites
 published: true
 redirects: 
-- /about_our_program
+- /hospitals
 ---
-Lorem ipsum
+Laboratory Medicine and Pathology residents and fellows have the opportunity to complete rotations at four prominent medical centers in the Twin Cities area.
+
+{% include site_list.html %}

@@ -2,4 +2,11 @@ name: Laboratory Medicine and Pathology Residency and Fellowship Programs
 markdown: redcarpet
 pygments: true
 redirects: yes
-baseurl: /fragmentary-lesion
+baseurl: /fragmentary-lesion/
+assets:
+  baseurl: /fragmentary-lesion/assets/
+  sources:
+    - _assets/javascripts
+    - _assets/stylesheets
+    - _assets/images
+    - _assets/files
