@@ -4,6 +4,7 @@ title: Cytopathology Fellowship
 categories: fellowships
 published: true
 ---
+<img src="{{site.baseurl}}/images/cyto1.jpg" class="thumbnail pull-right">
 ### Program Director
 Hannah Krigman, MD
 
@@ -20,13 +21,13 @@ In all cases, the patient's previous pathology and cytology specimens are availa
 
 During interactions with the clinical staff, the fellow is encouraged to take an active role, not only in obtaining detailed information about material currently being studied, but in educating other physicians about applications of cytology and its advantages in specific situations. This includes recognizing situations in which cytologic evaluations (particularly fine needle aspiration) are not appropriate. This exchange of information occurs informally as cases are discussed at the microscope, in written form through results reporting, and in multidisciplinary patient-care conferences.
 
-### <a href="{% asset_path Cytopathology-Goals-and-Objectives-General.pdf %}"><span class="glyphicon glyphicon-file"></span> General Goals & Objectives</a>
+### <a href="{{site.baseurl}}/files/Cytopathology-Goals-and-Objectives-General.pdf"><span class="glyphicon glyphicon-file"></span> General Goals & Objectives</a>
 
 ### Rotation-Specific Goals & Objectives
-<a href="{% asset_path Cytopathology-Goals-and-Objectives-UMMC.pdf %}"><span class="glyphicon glyphicon-file"></span> University of Minnesota Medical Center</a>
+<a href="{{site.baseurl}}/files/Cytopathology-Goals-and-Objectives-UMMC.pdf"><span class="glyphicon glyphicon-file"></span> University of Minnesota Medical Center</a>
 
-<a href="{% asset_path Cytopathology-Goals-and-Objectives-ANW.pdf %}"><span class="glyphicon glyphicon-file"></span> Abbott Northwestern Hospital</a>
+<a href="{{site.baseurl}}/files/Cytopathology-Goals-and-Objectives-ANW.pdf"><span class="glyphicon glyphicon-file"></span> Abbott Northwestern Hospital</a>
 
-<a href="{% asset_path Cytopathology-Goals-and-Objectives-HCMC.pdf %}"><span class="glyphicon glyphicon-file"></span> Hennepin County Medical Center</a>
+<a href="{{site.baseurl}}/files/Cytopathology-Goals-and-Objectives-HCMC.pdf"><span class="glyphicon glyphicon-file"></span> Hennepin County Medical Center</a>
 
-<a href="{% asset_path Cytopathology-Goals-and-Objectives-UNITED.pdf %}"><span class="glyphicon glyphicon-file"></span> United Hospital</a>
+<a href="{{site.baseurl}}/files/Cytopathology-Goals-and-Objectives-UNITED.pdf"><span class="glyphicon glyphicon-file"></span> United Hospital</a>

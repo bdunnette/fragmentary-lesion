@@ -1,0 +1,9 @@
+{% assign sorted_pages = site.pages | sort:"path" %}
+<dl>
+{% for page in sorted_pages | sort:path %}
+    {% if page.categories contains 'faq' %}
+        <dt>{{page.title}}</dt>
+        <dd>{{ page.content | markdownify }}</dd>
+    {% endif %}
+{% endfor %}
+</dl>

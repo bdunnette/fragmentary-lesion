@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cytogenetics Fellowship
+title: Surgical Pathology Fellowship
 categories: fellowships
 published: true
 ---

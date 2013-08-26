@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cytogenetics Fellowship
+title: Molecular Genetic Pathology Fellowship
 categories: fellowships
 published: true
 ---
