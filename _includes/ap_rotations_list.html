@@ -1,0 +1,23 @@
+{% assign sorted_pages = site.pages | sort:"path" %}
+
+        
+<h4>Required Rotations</h3>
+        
+<ul>
+{% for page in sorted_pages %}
+{% if page.categories contains 'rotations' and page.categories contains 'ap' and page.categories contains 'required' %}
+    <li><a href="{{site.baseurl}}{{page.url}}">{{ page.title }}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
+
+<h4>Elective Rotations</h3>
+
+<ul>
+{% for page in sorted_pages %}
+{% if page.categories contains 'rotations' and page.categories contains 'ap' and page.categories contains 'elective' %}
+    <li><a href="{{site.baseurl}}{{page.url}}">{{ page.title }}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
+

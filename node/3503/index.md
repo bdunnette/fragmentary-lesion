@@ -1,9 +1,9 @@
 ---
 title: Hematopathology Fellowship 
 layout: default
-categories:
-- fellowships
 ---
+#  Hematopathology Fellowship
+
 This program in hematopathology is intended to provide advanced post-graduate
 training in diseases affecting the hematopoietic system and includes
 instruction in lymph node, spleen, blood, body fluid and bone marrow
@@ -365,25 +365,49 @@ First Year in Program *
 
 Conferences, seminars, and journal clubs in which the fellows participate:
 
-<table class="table table-striped table-bordered">
+Name of Conference Frequency Department Responsible
 
-<thead><tr>
-<th>Name of Conference</th>
-<th>Frequency</th>
-<th>Department Responsible</th>
-</tr></thead>
+Hematology Conference
 
-<tbody>
-<tr><td>Hematology Conference</td><td>Weekly Unknown slide conference</td><td>Hematopathology</td></tr>
-<tr><td>Clinical Pathology Conference</td><td>Weekly</td><td>Laboratory Medicine</td></tr>
-<tr><td>Hematologic Malignancy Conference</td><td>Bi-weekly</td><td>Hematopathology; Clinical Hematology/Oncology</td></tr>
-<tr><td>Laboratory Medicine and Pathology Grand Rounds</td><td>Weekly (Sept-June)</td><td>Laboratory Medicine</td></tr>
-<tr><td>Resident Lecture Series</td><td>Weekly</td><td>Laboratory Medicine</td></tr>
-<tr><td>Cytogenetics/Molecular Diagnostics Correlation Conference</td><td>Bi-weekly</td><td>Hematopathology; Cytogenetics; Molecular Diagnostics</td></tr>
-<tr><td>Didactic Hematopathology Lectures</td><td>Weekly</td><td>Hematopathology</td></tr>
-</tbody>
+Weekly Unknown slide conference
 
-</table>
+Hematopathology
+
+Clinical Pathology Conference
+
+Weekly
+
+Laboratory Medicine
+
+Hematologic Malignancy Conference
+
+Bi-weekly
+
+Hematopathology; Clinical Hematology/Oncology
+
+Laboratory Medicine and Pathology Grand Rounds
+
+Weekly (Sept-June)
+
+Laboratory Medicine
+
+Resident Lecture Series
+
+Weekly
+
+Laboratory Medicine
+
+Cytogenetics/Molecular Diagnostics Correlation Conference
+
+Bi-weekly
+
+Hematopathology; Cytogenetics; Molecular Diagnostics
+
+Didactic Hematopathology Lectures
+
+Weekly
+
+Hematopathology
 
 **Fellow participation in these conferences:**
 
