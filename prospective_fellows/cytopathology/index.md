@@ -1,7 +1,10 @@
 ---
-title: Cytopathology Fellowship 
+title: Cytopathology Fellowship
 layout: default
+published: true
+categories: fellowships
 ---
+
 #  Cytopathology Fellowship
 
 ### ![](../sites/default/files/cyto1.jpg)Program Director
@@ -86,4 +89,3 @@ Goals-and-Objectives-General.pdf)
   * ##### ![](https://residency.pathology.umn.edu/modules/file/icons/application-pdf.png) [Hennepin County Medical Center](../sites/default/files/Cytopathology-Goals-and-Objectives-HCMC.pdf)
 
   * ##### ![](https://residency.pathology.umn.edu/modules/file/icons/application-pdf.png) [United Hospital](../sites/default/files/Cytopathology-Goals-and-Objectives-UNITED.pdf)
-
