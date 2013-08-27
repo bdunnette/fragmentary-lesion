@@ -1,7 +1,9 @@
 ---
-title: Rotation Goals and Objectives 
+title: Rotation Goals and Objectives
 layout: default
+published: true
 ---
+
 #  Rotation Goals and Objectives
 
 ## Anatomic Pathology![]({{site.baseurl}}/files/annie_crop_square.jpg)
@@ -25,4 +27,3 @@ Program Supplement to the Institutional Policy Manual,
 pdf.png)[Residency Policy
 Manual](../sites/default/files/LMP_Residency_Policy_Manual.pdf) Part B:
 Policies, Guidelines, and Reference Listings.
-
