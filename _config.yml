@@ -3,3 +3,6 @@ markdown: redcarpet
 pygments: true
 redirects: yes
 baseurl: /fragmentary-lesion
+prose:
+  siteurl: 'http://bdunnette.github.io/fragmentary-lesion/'
+  media: 'images'

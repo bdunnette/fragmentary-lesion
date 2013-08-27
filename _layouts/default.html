@@ -24,7 +24,20 @@
         <div class="container">
           <div class="site">
 	    {% include umn_header.html %}
-            <div class="row">
+	    <script>
+	      (function() {
+		var cx = '007609816539237915960:f9i65kfnjy0';
+		var gcse = document.createElement('script');
+		gcse.type = 'text/javascript';
+		gcse.async = true;
+		gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+		    '//www.google.com/cse/cse.js?cx=' + cx;
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(gcse, s);
+	      })();
+	    </script>
+	    <gcse:search></gcse:search>            
+	    <div class="row">
 	      <div class="col-lg-2">
 		<ul class="nav nav-tabs nav-stacked">
 		  {% for menu_level in (2..3) %}
