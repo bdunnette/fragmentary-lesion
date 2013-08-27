@@ -1,0 +1,17 @@
+{% assign sorted_pages = site.pages | sort:"path" %}
+
+<table class="table table-striped table-bordered">
+{% for profile in sorted_pages %}
+{% if profile.faculty %}
+{% if profile.location != last_location %}
+<thead>
+<tr><th colspan="4" class="facility">{{profile.location}}</th></tr>
+<tr><th>Teaching Faculty</th><th>Teaching Position</th><th>Certifications</th><th>Activities with Residents</th></tr>
+</thead>
+<tbody>
+{% assign last_location = profile.location %}
+{% endif %}
+<tr><td>{{profile.title}}</td><td>{{profile.level}}</td><td>{{profile.certifications | join:", "}}</td><td>{{profile.activities | join:", "}}</td></tr>
+{% endif %}
+{% endfor %}
+</table>

@@ -4,7 +4,7 @@ layout: default
 ---
 #  Current Residents and Fellows
 
-#### [Our Residents and Fellows](current_residents_and_fellows/profiles)
+#### [Our Residents and Fellows](profiles/)
 
 #### [Pathology Residency Intranet](https://wiki.umn.edu/PathologyResidents)
 

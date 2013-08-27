@@ -13,6 +13,10 @@ a {
   color: #7A0019;
 }
 
+table {
+  width: 100%;
+}
+
 th {
 color: white;
 background: #7a0019;
@@ -23,6 +27,13 @@ background: -o-linear-gradient(top,#7a0019 0%,#5b0013 100%);
 background: -ms-linear-gradient(top,#7a0019 0%,#5b0013 100%);
 background: linear-gradient(to bottom,#7a0019 0%,#5b0013 100%);
 filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#7a0019',endColorstr='#5b0013',GradientType=0);
+}
+
+.facility {
+  font-size: 120%;
+  font-weight: bold;
+  background: white;
+  color: #7a0019;
 }
 
 /* from http://avexdesigns.com/responsive-youtube-embed/ */

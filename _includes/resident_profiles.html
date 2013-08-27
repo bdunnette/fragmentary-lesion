@@ -1,0 +1,32 @@
+{% assign sorted_pages = site.pages | sort:"path" %}
+
+<div class="container" id="residents">
+{% for profile in sorted_pages | sort:"level" %}
+{% if profile.resident %}
+{% if profile.level != last_level %}
+<h3>{{profile.level}}</h3>
+{% assign last_level = profile.level %}
+{% endif %}
+<div class="col-lg-6">
+<h4>{{profile.title}}</h4>
+<img src="{{site.baseurl}}/images/profiles/{{profile.photo}}" class="thumbnail">
+</div>
+{% endif %}
+{% endfor %}
+</div>
+
+<div class="container" id="fellows">
+{% for profile in sorted_pages | sort:"level" %}
+{% if profile.fellow %}
+
+{% if profile.level != last_level %}
+<h3>{{profile.level}}</h3>
+{% assign last_level = profile.level %}
+{% endif %}
+
+<h4>{{profile.title}}</h4>
+<img src="{{site.baseurl}}/images/profiles/{{profile.photo}}" class="thumbnail">
+{% endif %}
+{% endfor %}
+</div>
+
