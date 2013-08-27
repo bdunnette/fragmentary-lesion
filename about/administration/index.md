@@ -1,33 +1,34 @@
 ---
-title: Administration 
+title: Administration
 layout: default
+published: true
 ---
+
 #  Administration
 
 #### Central Graduate Medical Education Program Administration
 
-  * **Department Head**  
+**Department Head**  
 [Leo T. Furcht, M.D.](http://pathology.umn.edu/about/chair/)
 
-  * **Associate Dean for Graduate Medical Education**  
-[John Andrews, M.D.](http://www.peds.umn.edu/general-pediatrics/faculty/john-
-andrews/index.htm)
+**Associate Dean for Graduate Medical Education**  
+[John Andrews, M.D.](http://www.peds.umn.edu/general-pediatrics/faculty/john-andrews/index.htm)
 
-  * **A.L.R.T. Center GME Manager**  
+**A.L.R.T. Center GME Manager**  
 Sally Sawyer
 
-  * **GME Program Director**  
+**GME Program Director**  
 [John Crosson, M.D.](../user/35)
 
-  * **GME Associate Program Director**  
+**GME Associate Program Director**  
 [Michelle Dolan, M.D.](../user/34)
 
-  * **GME Program Administrator**  
+**GME Program Administrator**  
 Jennifer McDaniel
 
 #### Residency and Clinical Fellowship Training Programs (R.A.F.T.)
 
-  * ##### Advisory Committee Members:
+##### Advisory Committee Members:
 
     * Stuart Cameron, M.D., Hennepin County Medical Center, Anatomic Pathology
     * John Crosson, M.D., Chair, GME Program Director, Hennepin County Medical Center, Anatomic and Clinical Pathology
@@ -45,27 +46,25 @@ Jennifer McDaniel
     * Andrea Conway, M.D., Co-Chief Resident 2013-2014
     * Andrew Johnson, M.D., Co-Chief Resident 2013-2014
     * Jennifer McDaniel, Laboratory Medicine and Pathology GME Residency & Fellowship Coordinator
-  * ##### Program Directors:
+##### Program Directors:
 
     * John Crosson, M.D., Anatomic & Clinical Pathology Residency Program Director
-    * John Eckfeldt, M.D., Clinical Chemistry Fellowship Program
-    * Betsy Hirsch, Ph.D., Clinical Cytogenetics Fellowship Program
-    * J. Jeffrey McCullough, M.D., [Blood Banking/Transfusion Medicine Fellowship Program](http://residency.pathology.umn.edu/prospective_fellows/transfusion_medicine)
-    * Michelle Dolan, M.D., [Molecular Genetic Pathology Fellowship Program](http://residency.pathology.umn.edu/prospective_fellows/molecular_genetic_pathology/)
-    * J. Carlos Manivel, M.D., [Selective (Surgical) Pathology Fellowship Program](http://residency.pathology.umn.edu/prospective_fellows/selective_surg_path)
-    * Robert McKenna, M.D., [Hematopathology Fellowship Program](../node/3503)
-  * ##### Affiliated Institutional Faculty Site Directors:
+    * John Eckfeldt, M.D., [Clinical Chemistry Fellowship Program]({{site.baseurl}}/prospective_fellows/clinical_chemistry)
+    * Betsy Hirsch, Ph.D., [Clinical Cytogenetics Fellowship Program]({{site.baseurl}}/prospective_fellows/cytogenetics)
+    * J. Jeffrey McCullough, M.D., [Blood Banking/Transfusion Medicine Fellowship Program]({{site.baseurl}}/prospective_fellows/transfusion_medicine)
+    * Michelle Dolan, M.D., [Molecular Genetic Pathology Fellowship Program]({{site.baseurl}}prospective_fellows/molecular_genetic_pathology/)
+    * J. Carlos Manivel, M.D., [Selective (Surgical) Pathology Fellowship Program]({{site.baseurl}}prospective_fellows/surgical_pathology)
+    * Robert McKenna, M.D., [Hematopathology Fellowship Program]({{site.baseurl}}prospective_fellows/hematopathology)
+##### Affiliated Institutional Faculty Site Directors:
 
     * Fred Apple, Ph.D., Hennepin County Medical Center
     * John Eckfeldt, M.D., University of Minnesota Medical Center, Fairview
     * H. Parry Dilworth, M.D., Abbott Northwestern Hospital
     * H. Evin Gulbahce, M.D., Veterans Affairs Medical Center
     * Andrew Baker, M.D., Hennepin County Medical Examiner
-  * ##### Rotation and Specialty Program Director:
+##### Rotation and Specialty Program Director:
 
 Rotation / Specialty Program Directors and their Associated Administrative,
 Clerical, and Technical Coordinators are designated within each individual
 rotation summary. Please see the individual rotation/specialty program
-summaries in the [Goals and Objectives](http://residency.pathology.umn.edu/pro
-spective_residents/rotation_summaries/).
-
+summaries in the [Goals and Objectives]({{site.baseurl}}/prospective_residents/rotations/).
