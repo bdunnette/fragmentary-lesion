@@ -1,8 +1,12 @@
 ---
-title: Our Residents and Fellows 
+title: Our Residents and Fellows
 layout: default
+published: true
 ---
+
 #  Our Residents and Fellows
+
+{% include profile_list.html %}
 
 ### PGY-1
 
@@ -251,4 +255,3 @@ Priti Goyal, MBBS
 Daryl Tharp, MD
 
 ![](../sites/default/files/tharp_daryl.jpg)
-
