@@ -6,12 +6,7 @@ categories:
 ---
 #  Molecular Genetic Pathology
 
-![]({{site.baseurl}}/images/test_tubes.jpg)Molecular Genetic Pathology (MGP) Training Program at University of Minnesota
-Medical Center (UMMC) is an ACGME accredited one-year fellowship. This MGP
-program is designed to train pathologists to be an expert in molecular
-diagnosis. The MGP graduate will be in excellence to provide comprehensive
-diagnostic, management and counseling services for inherited diseases and the
-genetic factors pertinent to all diseases.
+![]({{site.baseurl}}/images/test_tubes.jpg)Molecular Genetic Pathology (MGP) Training Program at University of Minnesota Medical Center (UMMC) is an ACGME accredited one-year fellowship. This MGP program is designed to train pathologists to be an expert in molecular diagnosis. The MGP graduate will be in excellence to provide comprehensive diagnostic, management and counseling services for inherited diseases and the genetic factors pertinent to all diseases.
 
 Trainees will refine their skills in laboratory management, quality assurance
 and quality control. Trainees will constantly involve and become a critical
