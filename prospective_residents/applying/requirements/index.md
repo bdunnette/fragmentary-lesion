@@ -1,51 +1,86 @@
 ---
+title: Minimum Requirements for Residency Program Applicants 
 layout: default
-title: Prospective Residents
-published: true
 ---
-## Training Programs & Graduation Requirements
-The Department provides four years of combined anatomic & clinical and three years of anatomic or clinical pathology only residency training to its physicians-in-training who continually make successful academic progress towards the independent practice of laboratory medicine and pathology. In order to ensure uniform basic training, combined anatomic & clinical and anatomic or clinical pathology only trainees must successfully complete the appropriate core anatomic and/or clinical pathology rotation series to graduate from the Program (see below).
+#  Minimum Requirements for Residency Program Applicants
 
-In addition to the rotation requirements, all combined anatomic & clinical and anatomic only trainees must successfully complete 50 autopsies in accordance with the Program's autopsy policies by the time of graduation. Trainees are also required to satisfactorily present a formal 45 minute Departmental Grand Rounds on a current topic of pathology or a research project they completed. While not mandatory, trainees are highly encouraged to participate in clinical and/or basic pathology related research. Residents, with the assistance of a laboratory medicine and pathology mentor, may apply for Department sponsored funds to help partially cover the cost of their project and travel to present their research at a national meeting (See the Residency Policy Manual: Trainee Research Fund and Presenting Research at National Conferences on page 10).
+The following outline lists the minimal requirements for application to the
+Department of Laboratory Medicine and Pathology Graduate Medical Education
+Programs, including the general residency, advanced specialty, and fellowship
+programs.
 
-### Combined Anatomic and Clinical Pathology Graduation Requirements - Four Year Training Program
+With over 400 applications received annually, applicants who meet the
+following criteria will be reviewed and considered. A subgroup of eligible
+applicants is selected for admission interviews by invitation from the
+Director of Residency and Clinical Fellowship Training Programs. The GME
+Coordinator will directly contact selected applicants to offer and arrange for
+an interview.
 
-#### Eighteen months of Anatomic Pathology Core Requirements
+Applicants not meeting the below listed requirement will not be further
+reviewed, offered an interview, or receive a response. Applications will be
+received only through ERAS®.
 
-- 12 months of surgical pathology and autopsy pathology
-- 3 months of cytopathology
-- 1 month of forensic pathology
-- 1 month of renal pathology
-- 1 month of anatomic elective
+  1. All applicants must meet at least one of the following criteria at matriculation: 
+    1. Graduate of a medical school in the United States or Canada accredited by the Liaison Committee on Medical Education (LCME).
+    2. Graduate of a college of osteopathic medicine in the United States accredited by the American Osteopathic Association (AOA).
+    3. Graduate of a medical school outside of the United States and Canada who meets one of the following qualifications: 
+      1. Possession of a valid certificate from the Educational Commission for Foreign Medical Graduates (ECFMG) at the time of application and matriculation.
+      2. Possession of a full and unrestricted license to practice medicine in a U.S. licensing jurisdiction at the time of application and matriculation.
+    4. Graduate of medical school outside of the United States who has successfully completed a fifth year pathway program at a LCME accredited medical school.
+  2. Applicants must not have more than 3 USMLE failures.
+  3. Applicants must be able to pass a criminal background check upon matriculation pursuant to Minnesota Statutes 144.057 and 245A.04. Physicians-in-training who do not pass this background check are not permitted to enter or continue in the program.
+  4. Applicants must meet state and federal employment regulations at matriculation and during training. The Department accepts applicants with valid J-1 visas only. The Department does not sponsor other types of visas.
+  5. Applicants must be fluent in both spoken and written English, especially as it relates to the clinical practice of medicine.
+  6. The University and its Departments do not discriminate on the basis of race, religion, creed, color, sex, national origin, disability, age, marital status, public assistance status, veteran status, or sexual orientation.
 
-#### Eighteen months of Clinical Pathology Core Requirements
+### Additional Applicant Requirements by Level of Post-Graduate Medical
+Education:
 
-During the first two years residents will have CP rotations which expose them to all of the CP disiplines. These rotations will include:
+  1. Applicants for **PGY-1 positions currently enrolled in a LCME or AOA accredited medical school**must meet all of the following criteria: 
+    1. Must have passed Part 1 of the United States Medical Licensing Examination (USMLE).
+    2. Must pass Part 2 of the USMLE prior to match.
+    3. Must be awarded the MD or DO degree prior to matriculation.
+  2. Applicants for **PGY-1 positions who have completed medical school** must meet all of the following criteria:  
 
-- 2 months of clinical chemistry
-- 2 months of microbiology
-- 3 months of transfusion medicine and coagulation
-- 3 months of hematology
-- 2 months of cytogentics and basic molecular pathology
+    4. Must possess a valid MD or DO degree.
+    5. Must have passed USMLE Part 1 and Part 2.
+    6. Demonstrated continued interest and involvement in clinical medicine since graduation from medical school.
+    7. Applicants must participate in the National Resident Matching Program (NRMP).
+  3. Applicants for **PGY-2** positions must meet all of the following criteria:  
 
-During the last two years residents will be required to have 6 months and strongly encouraged to have at least 8 months of advanced CP rotations. During these advanced rotations, they will be required to have:
+    8. Must be currently enrolled and in good standing in an ACGME accredited residency training program at the time of application.
+    9. Must have passed USMLE Part 1 and Part 2.
+    10. Must pass Part 3 of the USMLE by January 1 of their PGY-2 year.
+    11. Must provide a letter from their previous training program, outlining satisfactorily completed prior training.
+  4. Applicants for **PGY-3 or higher** positions must meet all of the following criteria:  
 
-- 1 month chemistry
-- 1 month microbiology
-- 1 month hematology
-- 1 month transfusion medicine
+    12. Must be currently enrolled and in good standing in an ACGME accredited residency training program at the time of application.*
+    13. Must have passed USMLE Part 1, Part 2, and Part 3.
+    14. Must provide a letter from all previous training programs, outlining satisfactorily completed prior training.
 
-The rest of the rotations can be chosen from a large list of advanced CP rotations, all of which have an extensive clinical component.
+*Applicants who have graduated from an ACGME accredited residency program may apply for the advanced specialty/fellowship training programs without being currently enrolled in a graduate medical training program.
 
-#### 12 Months of Flexible Training
+### General Residency, Advanced Year, and Fellowship Programs Criteria for
+Applicant Evaluation
 
-This training year is designed to provide directed and focused training in preparation for graduation. Such training may include:
+Eligible applicants are reviewed, offered interviews, ranked, and accepted
+based on the Program Director's and Residency Advisory Committee's assessment
+of the following criteria:
 
-- Up to 6 months of research directed at issues related to laboratory medicine and pathology. Residents must submit a written proposal to the R.A.F.T. Committee regarding the composition of this research for approval. This proposal must be submitted at least 6 months before the start of the 4th year.
-- Advanced elective rotations in anatomic or clinical pathology.
+  1. General preparedness for residency, advanced specialty, or fellowship training.
+  2. Breadth and depth of medical knowledge, as it relates to the current practice of medicine.
+  3. Understanding of Laboratory Medicine and Pathology as a specialty.
+  4. Feedback and insight from in-person faculty interviews.
+  5. Aptitude for successful post-graduate medical education.
+  6. Ability to safely perform the spectrum of patient care duties required for completion of the training program.
+  7. Effectiveness of professional and interpersonal communication skills.
+  8. Demonstration of integrity, motivation, ethic, and dedication to scholarly pursuit of medical knowledge.
+  9. Performance on the United States Medical Licensing Examination(s).
+  10. Letters of recommendation and evaluations.
+  11. Compatibility with the Program's goals, objectives, and structure.
+  12. Compatibility with current Program trainees.
 
-Electives can be taken at any point starting in the second year.
+The University of Minnesota does not discriminate on the basis of race,
+religion, creed, color, sex, national origin, disability, age, marital status,
+public assistance status, veteran status, or sexual orientation.
 
-### Anatomic or Clinical Pathology Only - Three Year Training Program
-
-Completion of the corresponding two year anatomic or clinical pathology core requirements, and a year of approved pathology research or advanced rotations relating to the specific discipline as described above.

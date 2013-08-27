@@ -1,30 +1,71 @@
 ---
+title: Surgical Pathology Fellowship 
 layout: default
-title: Surgical Pathology Fellowship
-categories: fellowships
-published: true
+categories:
+- fellowships
 ---
-Thank you for your interest in the Cytogenetics Fellowship position at the University of Minnesota. We are dedicated to being a premier educational and training program in the Midwest.
+#  Surgical Pathology Fellowship
 
-We are currently recruiting applicants for the 2014-2015 academic year. We will be offering one position for the upcoming year. We seek highly-motivated, dedicated applicants with a strong desire to excel. All applicants will be reviewed and a select number invited for on-site interviews in the fall and early winter.
+## Mission
 
-Applicants will be evaluated and given preference based on prior experience, interest, and demonstrated excellence in the area of cytogenetics and molecular genetics. Please provide the following application materials:
+The goal of this fellowship is to provide expertise in independent sign-out,
+diagnostic and prognostic advances, communication and management skills in
+surgical pathology to train future leaders in academia and community practice.
 
-Cover letter detailing career goals and any experience in cytogenetics
-Three letters of reference
-Transcripts preferred
-Please send your application information to sallyann@umn.edu.
+## Teaching Faculty
 
-All individuals with a doctoral degree earned outside of the US, Canada or Puerto Rico who are planning to sit for the certification examination are strongly urged to have the ABMG Credentials Committee review their credentials prior to the onset of medical genetics training in an ABMG-accredited fellowship or ACGME-accredited clinical genetics residency program for determination of equivalency of the doctoral degree. Please visit their website for further instructions at http://www.abmg.org/pages/cert_forcredential.shtml
+### Program Director
 
-Sincerely,
+[Carlos Manivel, MD](http://pathology.umn.edu/about/faculty/manivel/)
 
-<div itemscope itemtype="http://schema.org/Person">
-<span itemprop="name">Betsy Hirsch</span>, PhD
-<span itemprop="jobTitle">Associate Professor</span>
-Dept. of Laboratory Medicine and Pathology
-Director of Cytogenetics
-University of Minnesota Medical School
-Mayo Mail Code 609
-<a href="mailto:hirsc003@umn.edu" itemprop="email">hirsc003@umn.edu</a>
-</div>
+### Anatomic Pathology Teaching Faculty
+
+  * [Khalid Amin, MD](http://pathology.umn.edu/about/faculty/khalidamin/)
+  * [H. Brent Clark MD, PhD](http://pathology.umn.edu/about/faculty/clark/)
+  * [Yusheng Han, MD](http://pathology.umn.edu/about/faculty/yushenghan/)
+  * [Hannah Krigman, MD](http://pathology.umn.edu/about/faculty/krigman/)
+  * [Carlos Manivel, MD](http://pathology.umn.edu/about/faculty/manivel/)
+  * [Ralph Powell, MD](http://pathology.umn.edu/about/faculty/powell/)
+  * [Robyn Reed, MD, PhD](http://pathology.umn.edu/about/faculty/reed/)
+  * [Jon Ritter, MD](http://pathology.umn.edu/about/faculty/ritter/)
+  * [Alexander Truskinovsky, MD](http://pathology.umn.edu/about/faculty/truskinovsky/)
+
+## Program Highlights
+
+  * Two positions, each one year duration.
+  * ACGME accredited.
+  * This fellowship provides comprehensive training in all areas of surgical pathology in a large tertiary care center.
+  * Rotating with faculty members, the fellows preview slides with residents and provide final diagnoses on biopsies and large specimens.
+  * Fellows order special studies (IHC, ISH, EM, etc) for case work-up.
+  * Fellows receive comprehensive training in frozen section diagnosis in all subspecialties.
+  * Fellows participate in Quality Assurance/Quality Improvement activities in Anatomic Pathology.
+  * Fellows review consultation and referral cases.
+  * Fellows participate in the supervision and teaching of residents
+
+Established 35 years ago, this fellowship has a strong tradition of providing
+education in all aspects of surgical pathology beyond residency training.
+Under guidance of known experts, fellows are granted progressive autonomy.
+This program prepares trainees for independent sign-out in surgical pathology
+practice and focuses in important subspecialty areas. Gradual responsibility
+provides opportunity for appropriately seeking consultation. State of the art
+ancillary laboratories expose the fellows to new diagnostic and prognostic
+studies. Interpersonal and communication abilities, supervisory and management
+skills constitute essential components of this fellowship. Academic activities
+are fostered; ample material, resources, and expert guidance are available for
+participation in research projects.
+
+With over 50 years' combined experience, the directors have contributed to
+advances in surgical pathology. Faculty members are general surgical
+pathologists with specific expertise in subspecialty areas. Collegiality and
+friendly environment foster professional and personal growth.
+
+The purpose of this fellowship is to train well rounded surgical pathologists
+who will become the leaders in academia and community practice.
+
+#### ![](https://residency.pathology.umn.edu/modules/file/icons/application-
+pdf.png)[Program Curriculum](../sites/default/files/UMN_LMP_Surgical_Pathology
+_Fellowship_Curriculum.pdf)
+
+For inquiries contact [Jennifer McDaniel](applying.1), GME Residency &
+Fellowship Administrator.
+

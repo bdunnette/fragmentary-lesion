@@ -1,51 +1,108 @@
 ---
+title: Interviewing 
 layout: default
-title: Prospective Residents
-published: true
 ---
-## Training Programs & Graduation Requirements
-The Department provides four years of combined anatomic & clinical and three years of anatomic or clinical pathology only residency training to its physicians-in-training who continually make successful academic progress towards the independent practice of laboratory medicine and pathology. In order to ensure uniform basic training, combined anatomic & clinical and anatomic or clinical pathology only trainees must successfully complete the appropriate core anatomic and/or clinical pathology rotation series to graduate from the Program (see below).
+#  Interviewing
 
-In addition to the rotation requirements, all combined anatomic & clinical and anatomic only trainees must successfully complete 50 autopsies in accordance with the Program's autopsy policies by the time of graduation. Trainees are also required to satisfactorily present a formal 45 minute Departmental Grand Rounds on a current topic of pathology or a research project they completed. While not mandatory, trainees are highly encouraged to participate in clinical and/or basic pathology related research. Residents, with the assistance of a laboratory medicine and pathology mentor, may apply for Department sponsored funds to help partially cover the cost of their project and travel to present their research at a national meeting (See the Residency Policy Manual: Trainee Research Fund and Presenting Research at National Conferences on page 10).
+You should arrive at the Program Coordinator's office in the morning of your
+interview.
 
-### Combined Anatomic and Clinical Pathology Graduation Requirements - Four Year Training Program
+Jennifer McDaniel's office is located on the 1st floor of the [Mayo Memorial
+Building](http://umn.edu/twincities/maps/Mayo/) in room D185.
 
-#### Eighteen months of Anatomic Pathology Core Requirements
+**Jennifer McDaniel**  
+GME Program Coordinator
 
-- 12 months of surgical pathology and autopsy pathology
-- 3 months of cytopathology
-- 1 month of forensic pathology
-- 1 month of renal pathology
-- 1 month of anatomic elective
+Department of Laboratory Medicine and Pathology
 
-#### Eighteen months of Clinical Pathology Core Requirements
+University of Minnesota Medical School
 
-During the first two years residents will have CP rotations which expose them to all of the CP disiplines. These rotations will include:
+420 Delaware St. SE/MMC 609
 
-- 2 months of clinical chemistry
-- 2 months of microbiology
-- 3 months of transfusion medicine and coagulation
-- 3 months of hematology
-- 2 months of cytogentics and basic molecular pathology
+D185 Mayo Memorial Building
 
-During the last two years residents will be required to have 6 months and strongly encouraged to have at least 8 months of advanced CP rotations. During these advanced rotations, they will be required to have:
+Minneapolis, MN 55455
 
-- 1 month chemistry
-- 1 month microbiology
-- 1 month hematology
-- 1 month transfusion medicine
+### Getting to the interview
 
-The rest of the rotations can be chosen from a large list of advanced CP rotations, all of which have an extensive clinical component.
+[**The Commons Hotel**](http://www.commonshotel.com/directions.aspx)
 
-#### 12 Months of Flexible Training
+615 Washington Avenue SE
 
-This training year is designed to provide directed and focused training in preparation for graduation. Such training may include:
+Minneapolis, MN. 55414
 
-- Up to 6 months of research directed at issues related to laboratory medicine and pathology. Residents must submit a written proposal to the R.A.F.T. Committee regarding the composition of this research for approval. This proposal must be submitted at least 6 months before the start of the 4th year.
-- Advanced elective rotations in anatomic or clinical pathology.
+612-379-8888
 
-Electives can be taken at any point starting in the second year.
+**Airport Taxi**  
+763-592-6400
 
-### Anatomic or Clinical Pathology Only - Three Year Training Program
+**Yellow Taxi**  
+(612) 824-4444
 
-Completion of the corresponding two year anatomic or clinical pathology core requirements, and a year of approved pathology research or advanced rotations relating to the specific discipline as described above.
+### Directions
+
+To the University Campus:
+
+[http://www1.umn.edu/pts/maps/directions.html](http://www1.umn.edu/pts/maps/di
+rections.html)
+
+Once on campus:
+
+![](../sites/default/files/Untitled 1.png)
+
+### Eligibility and Application
+
+To be eligible for appointment, the clinical-base candidate must be a student
+in good standing at an American or Canadian medical school approved by the
+Council of Medical Education of the American Medical Association. A rotating
+or straight internship approved by the ACGME (Accreditation Council for
+Graduate Medical Education) also meets admission requirements and may be used
+to satisfy the PGY-1 requirement.
+
+Graduates of foreign medical schools must hold an ECFMG or FLEX certificate or
+possess a license to practice medicine in the United States. A Minnesota
+medical license is not required for appointment, but each resident should make
+the necessary arrangements early in their final year if they anticipate
+remaining in Minnesota.
+
+Application must be done through [ERAS (Electronic Residency Application
+Service)](http://www.aamc.org/audienceeras.htm) for PGY-1. Applications are
+processed in late summer and fall so that an interview can be completed prior
+to December 15th, so both parties are prepared to match within the NRMP
+program by the February deadline date. All PGY-1 appointments are made through
+NRMP and candidates must conform to all NRMP guidelines and dates. For
+information regarding participation in the matching program or application
+through ERAS, check with your Dean's office, or write to:
+
+National Resident Matching Program, 2450 N Street, NW, Ste. 201, Washington,
+D.C. 20037-1141. Applicants with a foreign medical degree should check with
+the Educational Commission for Foreign Medical Graduates (ECFMG) for
+information on ERAS and NRMP.
+
+*****Only applications processed through the ERAS system are accepted for match positions.
+
+*****Applications will be evaluated and qualified candidates will be invited for an interview and tour of our facility and educational program.
+
+*****Ample opportunity will be provided for the applicant to visit and laboratories and meet with residents and faculty.
+
+In summary, application requires the following:
+
+  1. Completed application form
+  2. Medical School Dean's letter
+  3. Personal statement
+  4. Medical School and pre-medical transcripts (originals or certified copies)
+  5. USMLE or COMLEX scores
+  6. Current letters of recommendation (3)
+  7. Copy of ECFMG certificate if graduated from foreign school
+  8. Any other appropriate credentials, e.g., clinical-base documentation of entering at CA-1 level
+
+Submission of the above credentials is required prior to the personal
+interview. **No candidate will be considered until all the requirements are
+fulfilled.**
+
+The University of Minnesota Department of Laboratory Medicine and Pathology
+considers resident training to be a core function which is vital to our
+mission. The faculty is available at all times to aid residents and applicants
+in the selection of training programs best suited to the goals of the
+candidate.
+
