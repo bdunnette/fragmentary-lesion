@@ -1,15 +1,10 @@
 ---
-title: Applying to Fellowship and Advanced Specialty Training Programs 
+title: Applying to Fellowship and Advanced Specialty Training Programs
 layout: default
+published: true
 ---
+
 #  Applying to Fellowship and Advanced Specialty Training Programs
-
-[x](../prospective_fellows/applying.1#)
-
-## Status message
-
-Oops, looks like this request tried to create an infinite loop. We do not
-allow such things here. We are a professional website!
 
 Physicians interested in pursuing advanced training in laboratory medicine and
 pathology will need to submit a completed
@@ -57,4 +52,3 @@ Minneapolis, MN 55455
 Fax: (612) 625-3976
 
 [jenmcdan@umn.edu](mailto:jenmcdan@umn.edu)
-
