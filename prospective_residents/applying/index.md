@@ -17,7 +17,7 @@ training programs in the United States. Successful applicants may train for care
 
 **_First year resident applicants_** are required to apply through [ERAS](http://www.aamc.org/eras/start.htm), the Electronic Residency Application Service.
 
-Completed applications must be received no later than **December 1**, with a
+Completed applications must be received no later than **December 15**, with a
 strong recommendation to have them in by November 15, for positions beginning
 July 1 of the following year.
 
@@ -30,30 +30,9 @@ In summary, application requires the following:
   5. USMLE or COMLEX scores
   6. Current letters of recommendation (3)
   7. Copy of ECFMG certificate if graduated from foreign school
-  8. Any other appropriate credentials, e.g., clinical-base documentation of entering at CA-1 level
 
 The Program accepts new PGY-1 residents through the
 [NRMP](http://www.nrmp.org/), National Residency Match Program.
-
-### Advanced Level Resident Applicants
-
-**_Advanced level resident applicants_** who are considering transfer from another pathology program or medical specialty should write the Program Coordinator and request an application. Direct inquires to:
-
-Jennifer McDaniel
-
-GME Program Administrator
-
-Department of Laboratory Medicine and Pathology
-
-University of Minnesota Medical School
-
-420 Delaware St. SE/MMC 609
-
-Minneapolis, MN 55455
-
-Fax: (612) 625-3976
-
-[jenmcdan@umn.edu](mailto:jenmcdan@umn.edu)
 
 ### Frequently Asked Questions
 
