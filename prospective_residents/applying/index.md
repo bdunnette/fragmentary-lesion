@@ -1,7 +1,9 @@
 ---
-title: Applying to the Pathology Residency Program 
+title: Applying to the Pathology Residency Program
 layout: default
+published: true
 ---
+
 #  Applying to the Pathology Residency Program
 
 The Laboratory Medicine and Pathology residency training program at the
@@ -9,8 +11,7 @@ University of Minnesota Medical School is distinctive in having a nationally
 recognized commitment to both clinical and anatomic pathology and the
 structural flexibility to customize training plans for community, academic,
 and research careers. The program's breadth and expertise is unique among
-training programs in the United States. Applicants may choose from anatomic
-only, clinical only, and combined anatomic and clinical pathology tracks.
+training programs in the United States. Successful applicants may train for careers in community pathology, academic pathology or research.
 
 ### First Year Resident Applicants
 
@@ -126,4 +127,3 @@ Each year, we match five to six PGY-1 positions.
 How many current residents are there in your program?
 
 The ACGME has certified 22 residents in training in our program.
-
