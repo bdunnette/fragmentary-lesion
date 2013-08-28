@@ -36,14 +36,13 @@ The Program accepts new PGY-1 residents through the
 
 ### Frequently Asked Questions
 
-What is the mechanism for applications via the [NRMP](http://www.nrmp.org/)
-Match?
+_What is the mechanism for applications via the [NRMP](http://www.nrmp.org/)
+Match?_
 
 Only through the ERAS ([Electronic Residency Application
 Service](http://www.aamc.org/audienceeras.htm)) system.
 
-What is the information required though ERAS?
-
+_What is the information required though ERAS?_
   1. Completed application form
   2. Medical School Dean's letter
   3. Personal statement
@@ -52,20 +51,16 @@ What is the information required though ERAS?
   6. Current letters of recommendation (3)
   7. Curriculum Vitae
   8. Copy of ECFMG certificate if graduated from foreign school
-  9. Any other appropriate credentials, e.g., clinical-base documentation of entering at CA-1 level
 
+_Is there a specific USMLE "cut-off" score?_
 
-Is there a specific USMLE "cut-off" score?
+While there is no specific score, passing scores are required.  Applications with more than three attempts would not be considered.
 
-Passing scores of 75 or more are required.
-
-Do you take into consideration the year of graduation, and if so in what way?
-
+_Do you take into consideration the year of graduation, and if so in what way?_
 We generally prefer within 8 years of MD graduation. We occasionally consider
 longer graduation intervals.
 
-Any special letter of reference required or recommended?
-
+_Any special letter of reference required or recommended?_
 Letters of reference are at the discretion of the applicant. In general,
 strong letters from experts both within pathology, as well as those outside of
 pathology are desirable.
