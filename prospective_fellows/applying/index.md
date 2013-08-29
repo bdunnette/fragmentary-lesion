@@ -13,13 +13,13 @@ pathology will need to submit a completed
 _Complete applications must be received no later than September 1 for
 positions beginning July 1 of the following year._
 
-_Applications for the [Hematopathology Fellowship Program](../hematopathology/)
+Applications for the [Hematopathology Fellowship Program](../hematopathology/)
 should be received no later than January 1 for positions beginning July 1 of
-the following year._
+the following year.
 
-_[Blood Banking and Transfusion Medicine Fellowship](../blood_banking_and_transfusion_medicine/) suggests
+[Blood Banking and Transfusion Medicine Fellowship](../blood_banking_and_transfusion_medicine/) suggests
 applying early as applications are accepted on a rolling basis. The
-application deadline is 03/31 for Fellowships beginning the same year._
+application deadline is 03/31 for Fellowships beginning the same year.
 
 Only complete applications are reviewed for possible interviews. Complete
 applications consist of the Department's fellowship application form,
