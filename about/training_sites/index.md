@@ -76,8 +76,7 @@ active on-site blood bank donor center.
 
 ## [Veterans' Affairs Medical Center - Minneapolis](../node/3920)
 
-[![](../sites/default/files/styles/medium/public/vamc.jpg?itok=e6d3031O)](../s
-ites/default/files/vamc.jpg)
+![vamc.jpg](/images/vamc.jpg)
 
 The Veterans' Affairs Medical Center has a 361-bed capacity in addition to a
 full spectrum of clinics. This medical center has over 11,500 surgical
