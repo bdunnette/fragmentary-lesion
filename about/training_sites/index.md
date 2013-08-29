@@ -95,6 +95,3 @@ See map: [Google Maps](http://maps.google.com?q=1+Veterans+Drive%2C+Minneapoli
 s%2C+MN%2C+%2C+us)
 
 [http://www.minneapolis.va.gov/](http://www.minneapolis.va.gov/)
-
-  *[Phone:]: voice
-  *[Fax:]: fax
