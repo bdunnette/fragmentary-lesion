@@ -1,7 +1,9 @@
 ---
-title: Teaching Faculty 
+title: Teaching Faculty
 layout: default
+published: true
 ---
+
 ##  Teaching Faculty
 
 **Listed are all faculty who devote at least 10 hours a week to resident education.**
@@ -85,8 +87,6 @@ _There is a full list of AP, CP, Research, and Community faculty on the [Lab Med
 
 <tr><td>David Mair, MD</td><td>Adjunct Assistant Professor</td><td>AP, CP, Transfusion Medicine</td><td>Transfusion Medicine</td></tr>
 
-<tr><td>J. Carlos Manivel, MD</td><td>Professor</td><td>AP</td><td>Surgical, Autopsy, Renal, Bone and Soft Tissue</td></tr>
-
 <tr><td>David H. Maurer, PhD</td><td>Associate Professor</td><td>Histocompatibility & Immunogenetics (ABHI)</td><td>Histocompatibility & Immunogenetics</td></tr>
 
 <tr><td>Jeffrey McCullough, MD</td><td>Professor</td><td>AP, CP, Transfusion Medicine</td><td>Blood Bank</td></tr>
@@ -139,6 +139,8 @@ _There is a full list of AP, CP, Research, and Community faculty on the [Lab Med
 <tr><td>H. Evin Gulbahce, MD</td><td>Associate Professor</td><td>AP, CP</td><td>Surgical, Cytopathology, Bone Marrow Transplant, Breast Pathology</td></tr>
 
 <tr><td>Carlos Iwamoto, MD</td><td>Assistant Professor</td><td>AP, CP</td><td>Surgical, Autopsy, Cytopathology</td></tr>
+
+<tr><td>J. Carlos Manivel, MD</td><td>Professor</td><td>AP</td><td>Surgical, Autopsy, Renal, Bone and Soft Tissue</td></tr>
 
 <tr><td>Hector Mesa-Corrales, MD</td><td>Assistant Professor</td><td>AP, Hematopathology</td><td>Surgical, Autopsy, Cytology, Hematopathology</td></tr>
 
