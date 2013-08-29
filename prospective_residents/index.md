@@ -7,7 +7,7 @@ published: true
 #  Prospective Residents
 
 ### Training Programs & Graduation Requirements
-![frozen_section.jpg](/images/frozen_section.jpg)
+![frozen_section.jpg]({{site.baseurl}}/images/frozen_section.jpg)
 The Department provides four years of combined anatomic & clinical and three
 years of anatomic or clinical pathology only residency training to its
 physicians-in-training who continually make successful academic progress
