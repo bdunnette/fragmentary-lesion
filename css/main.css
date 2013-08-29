@@ -1,5 +1,13 @@
 @import url(http://fonts.googleapis.com/css?family=Noto+Sans|Noto+Serif);
 
+body {
+  background: #F0E9D1;
+}
+
+.container {
+  background: #fff;
+}
+
 h1, h2, h3 {
   font-family: 'Noto Serif', serif;
   color: #7A0019;

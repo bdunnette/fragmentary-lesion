@@ -20,25 +20,30 @@
 
     </head>
     <body>
-
-        <div class="container">
-        <div class="site">
-	    {% include umn_header.html %}
+	<div class="container">
 	    <div class="row">
-	    <div class="col-lg-2">
-	    {% include site_nav.html %}
+	    {% include umn_header.html %}
 	    </div>
-	    <div class="col-lg-10">
-	    {% include breadcrumbs.html %}
-            <h2>{{ title }}</h2>
-            {{ content }}
+	</div>
+        <div class="container">
+	    <div class="site">
+		<div class="row">
+		    <div class="col-lg-2">
+		    {% include site_nav.html %}
+		    </div>
+		    <div class="col-lg-10">
+		    {% include breadcrumbs.html %}
+		    <h2>{{ title }}</h2>
+		    {{ content }}
+		    </div>
+		</div>
 	    </div>
-	    </div>
-            <div class="footer row">
+        </div> <!-- /container -->
+	<div class="container">
+	    <div class="footer row">
             {% include umn_footer.html %}  
             </div>
-        </div>
-        </div> <!-- /container -->
+	</div>
 
     </body>
 </html>

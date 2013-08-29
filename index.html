@@ -20,12 +20,30 @@ published: true
     <div class="row">
         <div class="col-lg-4" id="prospective-residents">
             <h3>Prospective Residents</h3>
+            <p>The Department provides four years of combined anatomic & clinical and three years of anatomic or clinical pathology only residency training to its physicians-in-training who continually make successful academic progress towards the independent practice of laboratory medicine and pathology.</p>
+            <ul>
+                <li><a href="{{ site.baseurl }}/prospective_residents/">Program Overview</a></li>
+                <li><a href="{{ site.baseurl }}/prospective_residents/applying/">Applying</a></li>
+                <li><a href="{{ site.baseurl }}/prospective_residents/interviewing/">Interviewing</a></li>
+                <li><a href="{{ site.baseurl }}/prospective_residents/rotations/">Rotation Goals and Objectives</a></li>
+            </ul>
         </div>
         <div class="col-lg-4" id="prospective-fellows">
             <h3>Prospective Fellows</h3>
+            <p>The Department of Laboratory Medicine and Pathology fellowship programs offer advanced training in different areas of anatomic and clinical pathology.</p>
+            {% include fellowship_list.html %}
         </div>
         <div class="col-lg-4" id="current-residents">
             <h3>Current Residents</h3>
+            <h4>Quick Links</h4>
+            <ul>
+                <li><a href="https://docs.google.com/spreadsheet/ccc?key=0Ap5vm7uuNTUEdDFRMjdjYm9UaERpOTdRYXMxSXVreWc&usp=sharing">Rotation Schedule</a></li>
+                <li><a href="https://wiki.umn.edu/PathologyResidents/RotationContacts">Rotation Contacts</a></li>
+                <li><a href="https://wiki.umn.edu/PathologyResidents/UsefulForms">Useful Forms</a></li>
+                <li><a href="http://z.umn.edu/pathunknowns">Unknown Slides</a></li>
+            </ul>
+            <h4>Upcoming Events</h4>
+            {% include residency_events.html %}
         </div>
     </div>
       
