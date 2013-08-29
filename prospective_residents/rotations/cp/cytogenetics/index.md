@@ -1,6 +1,9 @@
 ---
 title: Molecular Diagnostics, Cytogenetics and Biochemical Genetics - Multi-institutional Rotation 
 layout: default
+categories:
+- rotations
+- CP
 ---
 #  Molecular Diagnostics, Cytogenetics and Biochemical Genetics - Multi-
 institutional Rotation
