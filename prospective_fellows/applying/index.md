@@ -8,7 +8,7 @@ published: true
 
 Physicians interested in pursuing advanced training in laboratory medicine and
 pathology will need to submit a completed
-[Fellowship Application Form]({{site.baseurl}}files/Fellowship_Application_Form.pdf), a letter of inquiry and all supporting documentation indicated below. The letter of inquiry should include the name of the fellowship program and a brief overview of the applicant's interests, related prior experiences, and long-term career goals.
+[Fellowship Application Form]({{site.baseurl}}/files/Fellowship_Application_Form.pdf), a letter of inquiry and all supporting documentation indicated below. The letter of inquiry should include the name of the fellowship program and a brief overview of the applicant's interests, related prior experiences, and long-term career goals.
 
 _Complete applications must be received no later than September 1 for
 positions beginning July 1 of the following year._
