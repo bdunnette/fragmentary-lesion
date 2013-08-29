@@ -73,7 +73,7 @@ preparation for graduation. Such training may include:
 
 Electives can be taken at any point starting in the second year
 
-#### Anatomic or Clinical Pathology Only - _Three Year Training Program_
+#### Anatomic or Clinical Pathology Only - Three Year Training Program
 
 Completion of the corresponding two year anatomic or clinical pathology core
 requirements, and a year of approved pathology research or advanced rotations
