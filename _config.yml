@@ -2,7 +2,7 @@ name: Laboratory Medicine and Pathology Residency and Fellowship Programs
 markdown: redcarpet
 pygments: true
 redirects: yes
-baseurl: /fragmentary-lesion
+baseurl: /residency-jekyll
 prose:
-  siteurl: 'http://bdunnette.github.io/fragmentary-lesion/'
+  siteurl: 'http://umn-lmp.github.io/residency-jekyll/'
   media: 'images'
