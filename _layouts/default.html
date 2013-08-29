@@ -26,18 +26,7 @@
 	    {% include umn_header.html %}
 	    <div class="row">
 	      <div class="col-lg-2">
-		<ul class="nav nav-tabs nav-stacked">
-		  {% for menu_level in (2..3) %}
-		    <script>console.log({{ menu_level }});</script>
-		    {% for page in site.pages %}
-		      {% assign page_level = page.path | split:'/' | size %}
-		      <script>console.log("{{page.path}}:{{page_level}}");</script>
-		      {% if page_level == menu_level %}
-			<li><a href="{{ site.baseurl}}{{ page.url }}">{{ page.title }}</a></li>		      
-		      {% endif %}
-		    {% endfor %}
-		  {% endfor %}
-		</ul>
+		{% include site_nav.html %}
 	      </div>
 	      <div class="col-lg-10">
                 <h2>{{ title }}</h2>

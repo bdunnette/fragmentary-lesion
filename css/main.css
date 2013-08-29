@@ -57,4 +57,16 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#7a0019',endCo
     height: 100%;
 }
 
+dt {
+  font-size: 120%;
+}
 
+dd {
+  padding-left: 20px;
+  padding-bottom: 20px;
+}
+
+.nav ul
+{
+    list-style-type: none;
+}

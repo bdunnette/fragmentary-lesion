@@ -36,68 +36,74 @@ The Program accepts new PGY-1 residents through the
 
 ### Frequently Asked Questions
 
-_What is the mechanism for applications via the [NRMP](http://www.nrmp.org/)
-Match?_
+<dl>
+<dt>What is the mechanism for applications via the [NRMP](http://www.nrmp.org/)
+Match?</dt>
 
-Only through the ERAS ([Electronic Residency Application
-Service](http://www.aamc.org/audienceeras.htm)) system.
+<dd>Only through the ERAS ([Electronic Residency Application Service](http://www.aamc.org/audienceeras.htm)) system.</dd>
 
-_What is the information required though ERAS?_
-  1. Completed application form
-  2. Medical School Dean's letter
-  3. Personal statement
-  4. Medical School (originals or certified copies)
-  5. USMLE or COMLEX scores
-  6. Current letters of recommendation (3)
-  7. Curriculum Vitae
-  8. Copy of ECFMG certificate if graduated from foreign school
+<dt>What is the information required though ERAS?</dt>
+<dd>
+  <ol>
+  <li>Completed application form
+  <li>Medical School Dean's letter
+  <li>Personal statement
+  <li>Medical School (originals or certified copies)
+  <li>USMLE or COMLEX scores
+  <li>Current letters of recommendation (3)
+  <li>Curriculum Vitae
+  <li>Copy of ECFMG certificate if graduated from foreign school
+  </ol>
+</dd>
 
-_Is there a specific USMLE "cut-off" score?_
+<dt>Is there a specific USMLE "cut-off" score?</dt>
 
-While there is no specific score, passing scores are required.  Applications with more than three attempts would not be considered.
+<dd>While there is no specific score, passing scores are required.  Applications with more than three attempts would not be considered.</dd>
 
-_Do you take into consideration the year of graduation, and if so in what way?_
-We generally prefer within 8 years of MD graduation. We occasionally consider
+<dt>Do you take into consideration the year of graduation, and if so in what way?
+
+<dd>We generally prefer within 8 years of MD graduation. We occasionally consider
 longer graduation intervals.
 
-_Any special letter of reference required or recommended?_
-Letters of reference are at the discretion of the applicant. In general,
+<dt>Any special letter of reference required or recommended?
+
+<dd>Letters of reference are at the discretion of the applicant. In general,
 strong letters from experts both within pathology, as well as those outside of
 pathology are desirable.
 
-Do you require any previous US clinical experience?
+<dt>Do you require any previous US clinical experience?
 
-We have found this is very helpful and desirable to the successful applicant.
+<dd>We have found this is very helpful and desirable to the successful applicant.
 
-Do you accept IMGs to your residency program?
+<dt>Do you accept IMGs to your residency program?
 
-Yes
+<dd>Yes
 
-What percentage of your residents are IMG?
+<dt>What percentage of your residents are IMG?
 
-40%
+<dd>40%
 
-What is your minimum USMLE score for each step 1 and 2?
+<dt>What is your minimum USMLE score for each step 1 and 2?
 
-See answer above.
+<dd>See answer above.
 
-Do you accept J1 Visa?
+<dt>Do you accept J1 Visa?
 
-Yes
+<dd>Yes
 
-Do you accept H1-B Visa?
+<dt>Do you accept H1-B Visa?
 
-No
+<dd>No
 
-Are there any special requirements for foreign medical graduates?
+<dt>Are there any special requirements for foreign medical graduates?
 
-USMLE or COMLEX examination scores; appropriate Visa status; and fluency in
+<dd>USMLE or COMLEX examination scores; appropriate Visa status; and fluency in
 English. Foreign medical graduates must be ECFMG certified to apply.
 
-How many positions are available?
+<dt>How many positions are available?
 
-Each year, we match five to six PGY-1 positions.
+<dd>Each year, we match five to six PGY-1 positions.
 
-How many current residents are there in your program?
+<dt>How many current residents are there in your program?
 
-The ACGME has certified 22 residents in training in our program.
+<dd>The ACGME has certified 22 residents in training in our program.
