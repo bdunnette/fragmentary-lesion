@@ -1,7 +1,9 @@
 ---
-title: Prospective Fellows 
+title: Prospective Fellows
 layout: default
+published: true
 ---
+
 #  Prospective Fellows
 
 ![]({{ site.baseurl }}/images/fellow_scanscope.jpg)The Department of Laboratory Medicine and Pathology
@@ -43,12 +45,10 @@ subspecialty board certification examinations, where applicable.
 
 * * *
 
-[Applying to Lab Medicine and Pathology Fellowship
-Programs](applying/)
+### [Applying to Lab Medicine and Pathology Fellowship Programs](applying/)
 
   * [Minimal Requirements for Fellowship Program Applicants](applying/requirements/)
   * [Interviewing](applying/interviewing/)
   * [Applicant Selection](applying/applicant_selection/)
 
-[Life in the Twin Cities](http://umn.edu/wishyouwerehere/)
-
+### [Life in the Twin Cities](http://umn.edu/wishyouwerehere/)
