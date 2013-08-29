@@ -34,7 +34,7 @@ In summary, application requires the following:
 The Program accepts new PGY-1 residents through the
 [NRMP](http://www.nrmp.org/), National Residency Match Program.
 
-### Frequently Asked Questions
+### <a id="faq">Frequently Asked Questions</a>
 
 <dl>
 <dt>What is the mechanism for applications via the [NRMP](http://www.nrmp.org/)
