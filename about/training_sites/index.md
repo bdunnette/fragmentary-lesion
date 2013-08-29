@@ -60,8 +60,7 @@ s%2C+MN%2C+%2C+us)
 
 ## [University of Minnesota Medical Center, Fairview](../node/3919)
 
-[![](../sites/default/files/styles/medium/public/ummcf_0.jpg?itok=Ti2GTPp4)](.
-./sites/default/files/ummcf_0.jpg)
+![ummcf.jpg](/images/ummcf.jpg)
 
 The University of Minnesota Medical Center, Fairview is located in the health
 sciences complex on the University of Minnesota East Bank Campus in
