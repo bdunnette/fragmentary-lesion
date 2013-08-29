@@ -31,8 +31,7 @@ Maps](http://maps.google.com?q=800+E.+28th+St%2C+Minneapolis%2C+MN%2C+%2C+us)
 
 ## [Hennepin County Medical Center / Medical Examiner's Office](../node/3921)
 
-[![](../sites/default/files/styles/medium/public/hcmc_0.jpg?itok=QER_LcxU)](..
-/sites/default/files/hcmc_0.jpg)
+![hcmc.jpg](/images/hcmc.jpg)
 
 Hennepin County Medical Center (a 360-bed county medical center) has 8,200
 surgical specimens, 1,400 blood and bone marrow evaluations, 18,000
