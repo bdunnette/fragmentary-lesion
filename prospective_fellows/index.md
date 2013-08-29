@@ -4,8 +4,7 @@ layout: default
 ---
 #  Prospective Fellows
 
-![](sites/default/files/styles/large/public/Graduation and Fellows
-006.jpg?itok=lYTPyML3)The Department of Laboratory Medicine and Pathology
+![]({{ site.baseurl }}/images/fellow_scanscope.jpg)The Department of Laboratory Medicine and Pathology
 fellowship programs offer advanced training in different areas of anatomic and
 clinical pathology. Fellows have responsibilities that are intermediate
 between those of a resident and a staff pathologist. They are supervised as

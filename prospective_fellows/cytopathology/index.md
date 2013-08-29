@@ -7,7 +7,7 @@ categories: fellowships
 
 #  Cytopathology Fellowship
 
-### ![](../sites/default/files/cyto1.jpg)Program Director
+### ![]({{ site.baseurl }}/images/cyto1.jpg)Program Director
 
 [Hannah Krigman, MD](http://pathology.umn.edu/about/faculty/krigman/)
 

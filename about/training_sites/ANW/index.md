@@ -16,5 +16,7 @@ faxNumber:
   612-863-8375
 link:
   http://www.allinahealth.org/ahs/anw.nsf/
+photo:
+  abbott_nw.jpg
 ---
 Abbott Northwestern Hospital is a 642-bed community hospital with 16,500 surgical specimens, 500 blood and bone marrow evaluations, 89,200 cytopathology accessions, 84 autopsies, and 230,000 clinical pathology assays per year.

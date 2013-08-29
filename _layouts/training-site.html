@@ -28,10 +28,18 @@
 	    <div class="col-lg-2">
 	    {% include site_nav.html %}
 	    </div>
-	    <div class="col-lg-10">
+	    <div class="col-lg-10" itemscope itemtype="http://schema.org/Organization">
 	    {% include breadcrumbs.html %}
-            <h2>{{ title }}</h2>
+            <h2><span itemprop="name">{{ page.title }}</span></h2>
+	    <img class="thumbnail pull-right" src="{{ site.baseurl }}/images/{{ page.photo }}">
             {{ content }}
+	    <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+	    <span itemprop="streetAddress">{{ page.streetAddress }}</span><br/>
+	    <span itemprop="addressLocality">{{ page.city }}</span>
+	    <span itemprop="postalCode">{{ page.postalCode }}</span>
+	    </div>
+	    Phone: <span itemprop="telephone">{{ page.telephone }}</span><br/>
+	    Fax: <span itemprop="faxNumber">{{ page.faxNumber }}</span>
 	    </div>
 	    </div>
             <div class="footer row">

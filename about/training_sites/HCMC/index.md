@@ -14,6 +14,8 @@ faxNumber:
   612-904-4298
 link:
   http://www.hcmc.org/
+photo:
+  hcmc.jpg
 ---
 Hennepin County Medical Center (a 360-bed county medical center) has 8,200 surgical specimens, 1,400 blood and bone marrow evaluations, 18,000 cytopathology accessions, 108 autopsies, and more than 1,800,000 clinical pathology assays.
 

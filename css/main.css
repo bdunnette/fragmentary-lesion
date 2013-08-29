@@ -70,3 +70,22 @@ dd {
 {
     list-style-type: none;
 }
+
+img {
+  border: 1px solid #ddd;
+  padding: 2px;
+  border-radius: 5px;
+  float: right;
+  clear: both;
+  margin: 20px;
+}
+
+.profile img {
+  float: left;
+  margin: 5px;
+}
+
+.breadcrumb {
+  margin-top: 10px;
+  background-color: #ffde7a;
+}

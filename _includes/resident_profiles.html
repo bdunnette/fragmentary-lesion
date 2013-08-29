@@ -7,9 +7,10 @@
 <h3>{{profile.level}}</h3>
 {% assign last_level = profile.level %}
 {% endif %}
-<div class="col-lg-6">
+
+<div class="col-lg-6 profile">
 <h4>{{profile.title}}</h4>
-<img src="{{site.baseurl}}/images/profiles/{{profile.photo}}" class="thumbnail">
+<img src="{{site.baseurl}}/images/profiles/{{profile.photo}}">
 </div>
 {% endif %}
 {% endfor %}
@@ -24,8 +25,10 @@
 {% assign last_level = profile.level %}
 {% endif %}
 
+<div class="col-lg-6 profile">
 <h4>{{profile.title}}</h4>
-<img src="{{site.baseurl}}/images/profiles/{{profile.photo}}" class="thumbnail">
+<img src="{{site.baseurl}}/images/profiles/{{profile.photo}}">
+</div>
 {% endif %}
 {% endfor %}
 </div>
