@@ -1,33 +1,23 @@
 ---
-title: Applying to Fellowship and Advanced Specialty Training Programs 
+title: Applying to Fellowship and Advanced Specialty Training Programs
 layout: default
+published: true
 ---
+
 #  Applying to Fellowship and Advanced Specialty Training Programs
-
-[x](applying.1#)
-
-## Status message
-
-Oops, looks like this request tried to create an infinite loop. We do not
-allow such things here. We are a professional website!
 
 Physicians interested in pursuing advanced training in laboratory medicine and
 pathology will need to submit a completed
-![](http://residency.pathology.umn.edu/modules/file/icons/application-
-pdf.png)[Fellowship Application Form](http://residency.pathology.umn.edu/sites
-/default/files/Fellowship_Application_Form.pdf), a letter of inquiry and all
-supporting documentation indicated below. The letter of inquiry should include
-the name of the fellowship program and a brief overview of the applicant's
-interests, related prior experiences, and long-term career goals.
+[Fellowship Application Form]({{site.baseurl}}files/Fellowship_Application_Form.pdf), a letter of inquiry and all supporting documentation indicated below. The letter of inquiry should include the name of the fellowship program and a brief overview of the applicant's interests, related prior experiences, and long-term career goals.
 
 _Complete applications must be received no later than September 1 for
 positions beginning July 1 of the following year._
 
-_Applications for the [Hematopathology Fellowship Program](../node/3503)
+_Applications for the [Hematopathology Fellowship Program](../hematopathology/)
 should be received no later than January 1 for positions beginning July 1 of
 the following year._
 
-_[Blood Banking and Transfusion Medicine Fellowship](../node/3500) suggests
+_[Blood Banking and Transfusion Medicine Fellowship](../blood_banking_and_transfusion_medicine/) suggests
 applying early as applications are accepted on a rolling basis. The
 application deadline is 03/31 for Fellowships beginning the same year._
 
@@ -57,4 +47,3 @@ Minneapolis, MN 55455
 Fax: (612) 625-3976
 
 [jenmcdan@umn.edu](mailto:jenmcdan@umn.edu)
-
