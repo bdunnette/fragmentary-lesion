@@ -32,7 +32,7 @@ Trainee Research Fund and Presenting Research at National Conferences on page
 
 #### Combined Anatomic and Clinical Pathology Graduation Requirements - Four Year Training Program
 
-**Eighteen months of [Anatomic Pathology Core Requirements](prospective_residents/rotation_goals_and_objectives)**
+**Eighteen months of [Anatomic Pathology Core Requirements](rotations/ap/)**
 
   * 12 months of surgical pathology and autopsy pathology
   * 3 months of cytopathology
@@ -40,7 +40,7 @@ Trainee Research Fund and Presenting Research at National Conferences on page
   * 1 month of renal pathology
   * 1 month of anatomic elective
 
-**Eighteen months of [Clinical Pathology Core Requirements](prospective_residents/rotation_goals_and_objectives)**
+**Eighteen months of [Clinical Pathology Core Requirements](rotations/cp/)**
 
 During the first two years residents will have CP rotations which expose them
 to all of the CP disiplines. These rotations will include:
