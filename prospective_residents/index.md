@@ -7,9 +7,8 @@ published: true
 #  Prospective Residents
 
 ### Training Programs & Graduation Requirements
-
-![](sites/default/files/styles/large/public/frozen_section.jpg?itok=rHlgW3ze)T
-he Department provides four years of combined anatomic & clinical and three
+![frozen_section.jpg](/images/frozen_section.jpg)
+The Department provides four years of combined anatomic & clinical and three
 years of anatomic or clinical pathology only residency training to its
 physicians-in-training who continually make successful academic progress
 towards the independent practice of laboratory medicine and pathology. In
@@ -31,8 +30,7 @@ their research at a national meeting (See the [Residency Policy Manual:
 Trainee Research Fund and Presenting Research at National Conferences on page 
 10]({{site.baseurl}}/files/policy_manuals/LMP_Residency_Policy_Manual.pdf#page=11)).
 
-#### Combined Anatomic and Clinical Pathology Graduation Requirements - _Four
-Year Training Program_
+#### Combined Anatomic and Clinical Pathology Graduation Requirements - Four Year Training Program
 
 **Eighteen months of [Anatomic Pathology Core Requirements](prospective_residents/rotation_goals_and_objectives)**
 
