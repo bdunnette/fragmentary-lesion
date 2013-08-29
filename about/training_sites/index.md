@@ -1,13 +1,14 @@
 ---
-title: Training Sites 
+title: Training Sites
 layout: default
+published: true
 ---
+
 #  Training Sites
 
 ## [Abbott Northwestern Hospital](../node/3918)
 
-[![](../sites/default/files/styles/medium/public/abbott_nw_0.jpg?itok=Hw10t6My
-)](../sites/default/files/abbott_nw_0.jpg)
+![abbott_nw.jpg](/images/abbott_nw.jpg)
 
 Abbott Northwestern Hospital is a 642-bed community hospital with 16,500
 surgical specimens, 500 blood and bone marrow evaluations, 89,200
@@ -100,4 +101,3 @@ s%2C+MN%2C+%2C+us)
 
   *[Phone:]: voice
   *[Fax:]: fax
-
