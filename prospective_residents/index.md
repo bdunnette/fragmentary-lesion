@@ -1,7 +1,9 @@
 ---
-title: Prospective Residents 
+title: Prospective Residents
 layout: default
+published: true
 ---
+
 #  Prospective Residents
 
 ### Training Programs & Graduation Requirements
@@ -27,8 +29,7 @@ laboratory medicine and pathology mentor, may apply for Department sponsored
 funds to help partially cover the cost of their project and travel to present
 their research at a national meeting (See the [Residency Policy Manual:
 Trainee Research Fund and Presenting Research at National Conferences on page 
-10](http://residency.pathology.umn.edu/files/policy_manuals/LMP_Residency_Poli
-cy_Manual.pdf#page=11)).
+10]({{site.baseurl}}/files/policy_manuals/LMP_Residency_Policy_Manual.pdf#page=11)).
 
 #### Combined Anatomic and Clinical Pathology Graduation Requirements - _Four
 Year Training Program_
@@ -79,4 +80,3 @@ Electives can be taken at any point starting in the second year
 Completion of the corresponding two year anatomic or clinical pathology core
 requirements, and a year of approved pathology research or advanced rotations
 relating to the specific discipline as described above.
-
