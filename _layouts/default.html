@@ -28,13 +28,14 @@
         <div class="container">
 	    <div class="site">
 		<div class="row">
-		    <div class="col-lg-2">
+		    <div class="col-lg-2 sidebar">
 		    {% include site_nav.html %}
 		    </div>
-		    <div class="col-lg-10">
+		    <div class="col-lg-10 content">
 		    {% include breadcrumbs.html %}
 		    <h2>{{ title }}</h2>
 		    {{ content }}
+		    <div class="pull-right"><h6><a href="{% if page.path %}//prose.io/#umn-lmp/residency-jekyll/edit/gh-pages/{{ page.path }}{% else %}//prose.io/#umn-lmp/residency-jekyll{% endif %}" target="_blank"><span class="glyphicon glyphicon-edit"></span>Edit this page in Prose.io</a></h6></div>
 		    </div>
 		</div>
 	    </div>
