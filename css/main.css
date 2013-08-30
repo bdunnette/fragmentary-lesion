@@ -8,7 +8,7 @@ body {
   background: #fff;
 }
 
-h1, h2, h3 {
+h1, h2 {
   font-family: 'Noto Serif', serif;
   color: #7A0019;
 }
@@ -22,12 +22,12 @@ a {
 }
 
 a:hover, a:focus {
-color: #900021;
-text-decoration: underline;
+  color: #900021;
+  text-decoration: underline;
 }
 
 .nav>li>a:hover, .nav>li>a:focus {
-background-color: #ffde7a;
+  background-color: #ffde7a;
 }
 
 table {
@@ -35,15 +35,15 @@ table {
 }
 
 th {
-color: white;
-background: #7a0019;
-background: -moz-linear-gradient(top,#7a0019 0%,#5b0013 100%);
-background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#7a0019),color-stop(100%,#5b0013));
-background: -webkit-linear-gradient(top,#7a0019 0%,#5b0013 100%);
-background: -o-linear-gradient(top,#7a0019 0%,#5b0013 100%);
-background: -ms-linear-gradient(top,#7a0019 0%,#5b0013 100%);
-background: linear-gradient(to bottom,#7a0019 0%,#5b0013 100%);
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#7a0019',endColorstr='#5b0013',GradientType=0);
+  color: white;
+  background: #7a0019;
+  background: -moz-linear-gradient(top,#7a0019 0%,#5b0013 100%);
+  background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#7a0019),color-stop(100%,#5b0013));
+  background: -webkit-linear-gradient(top,#7a0019 0%,#5b0013 100%);
+  background: -o-linear-gradient(top,#7a0019 0%,#5b0013 100%);
+  background: -ms-linear-gradient(top,#7a0019 0%,#5b0013 100%);
+  background: linear-gradient(to bottom,#7a0019 0%,#5b0013 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#7a0019',endColorstr='#5b0013',GradientType=0);
 }
 
 .facility {
