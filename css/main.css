@@ -21,6 +21,15 @@ a {
   color: #7A0019;
 }
 
+a:hover, a:focus {
+color: #900021;
+text-decoration: underline;
+}
+
+.nav>li>a:hover, .nav>li>a:focus {
+background-color: #ffde7a;
+}
+
 table {
   width: 100%;
 }
