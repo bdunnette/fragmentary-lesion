@@ -1,5 +1,14 @@
 <script type="text/javascript">
 <!--
+function ValidURL(str) {
+  var pattern = new RegExp('/((http|https):\/\/(\w+:{0,1}\w*@)?(\S+)|)(:[0-9]+)?(\/|\/([\w#!:.?+=&%@!\-\/]))?/');
+  if(!pattern.test(str)) {
+    return false;
+  } else {
+    return true;
+  }
+}        
+
 /**
  * Converts an xs:date or xs:dateTime formatted string into the local timezone
  * and outputs a human-readable form of this date or date/time.
@@ -81,8 +90,9 @@ function formatGCalTime(gCalTime) {
  */ 
 function listEvents(root, divId) {
   var feed = root.feed;
+  console.log(feed);
   var events = document.getElementById(divId);
-
+  
   if (events.childNodes.length > 0) {
     events.removeChild(events.childNodes[0]);
   }	  
@@ -97,18 +107,19 @@ function listEvents(root, divId) {
     var start = entry['gd$when'][0].startTime;
 
     // get the URL to link to the event
-    for (var linki = 0; linki < entry['link'].length; linki++) {
-      if (entry['link'][linki]['type'] == 'text/html' &&
-          entry['link'][linki]['rel'] == 'alternate') {
-        var entryLinkHref = entry['link'][linki]['href'];
-      }
-    }
+    console.log(entry.content.$t);
+    console.log(ValidURL(entry.content.$t));
+    if (ValidURL(entry.content.$t)) {
+        var entryLinkHref = entry.content.$t;
+    } else {
+        var entryLinkHref = '';
+    };
 
     var dateString = formatGCalTime(start);
     var li = document.createElement('li');
 
     // if we have a link to the event, create an 'a' element
-    if (typeof entryLinkHref != 'undefined') {
+    if (entryLinkHref != '') {
       entryLink = document.createElement('a');
       entryLink.setAttribute('href', entryLinkHref);
       entryLink.appendChild(document.createTextNode(title));
