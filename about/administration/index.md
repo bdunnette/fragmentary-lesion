@@ -28,7 +28,7 @@ Jennifer McDaniel
 
 ### Residency and Clinical Fellowship Training Programs (R.A.F.T.)
 
-#### Advisory Committee Members:
+#### Advisory Committee Members
 
 - Stuart Cameron, M.D., Hennepin County Medical Center, Anatomic Pathology
 - John Crosson, M.D., Chair, GME Program Director, Hennepin County Medical Center, Anatomic and Clinical Pathology
@@ -47,7 +47,7 @@ Jennifer McDaniel
 * Andrew Johnson, M.D., Co-Chief Resident 2013-2014
 * Jennifer McDaniel, Laboratory Medicine and Pathology GME Residency & Fellowship Coordinator
 
-##### Program Directors
+#### Program Directors
 
 * John Crosson, M.D., Anatomic & Clinical Pathology Residency Program Director
 * John Eckfeldt, M.D., [Clinical Chemistry Fellowship Program]({{site.baseurl}}/prospective_fellows/clinical_chemistry)
@@ -57,7 +57,7 @@ Jennifer McDaniel
 * J. Carlos Manivel, M.D., [Selective (Surgical) Pathology Fellowship Program]({{site.baseurl}}prospective_fellows/surgical_pathology)
 * Robert McKenna, M.D., [Hematopathology Fellowship Program]({{site.baseurl}}prospective_fellows/hematopathology)
 
-##### Affiliated Institutional Faculty Site Directors
+#### Affiliated Institutional Faculty Site Directors
 
 * Fred Apple, Ph.D., [Hennepin County Medical Center]({{site.baseurl}}/about/training_sites/HCMC/)
 * John Eckfeldt, M.D., [University of Minnesota Medical Center, Fairview]({{site.baseurl}}/about/training_sites/UMMC/)
@@ -65,7 +65,7 @@ Jennifer McDaniel
 * H. Evin Gulbahce, M.D., [Veterans Affairs Medical Center]({{site.baseurl}}/about/training_sites/VA/)
 * Andrew Baker, M.D., [Hennepin County Medical Center]({{site.baseurl}}/about/training_sites/HCMC/)
 
-##### Rotation and Specialty Program Director
+#### Rotation and Specialty Program Director
 
 Rotation / Specialty Program Directors and their Associated Administrative,
 Clerical, and Technical Coordinators are designated within each individual
