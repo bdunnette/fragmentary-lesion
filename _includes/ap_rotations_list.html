@@ -6,7 +6,15 @@
 <ul>
 {% for page in sorted_pages %}
 {% if page.categories contains 'rotations' and page.categories contains 'ap' and page.categories contains 'required' %}
-    <li><a href="{{site.baseurl}}{{page.url}}">{{ page.title }}</a></li>
+    <li>
+    <!-- Only link to rotation pages that have content -->
+    {% assign content_size = page.content | size %}
+    {% if content_size > 0 %}
+        <a href="{{site.baseurl}}{{page.url}}">{{ page.title }}</a>
+    {% else %}
+        {{ page.title }}
+    {% endif %}
+    </li>
 {% endif %}
 {% endfor %}
 </ul>
@@ -16,7 +24,14 @@
 <ul>
 {% for page in sorted_pages %}
 {% if page.categories contains 'rotations' and page.categories contains 'ap' and page.categories contains 'elective' %}
-    <li><a href="{{site.baseurl}}{{page.url}}">{{ page.title }}</a></li>
+    <li>
+    {% assign content_size = page.content | size %}
+    {% if content_size > 0 %}
+        <a href="{{site.baseurl}}{{page.url}}">{{ page.title }}</a>
+    {% else %}
+        {{ page.title }}
+    {% endif %}
+    </li>
 {% endif %}
 {% endfor %}
 </ul>

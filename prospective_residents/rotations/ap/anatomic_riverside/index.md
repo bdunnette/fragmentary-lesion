@@ -1,6 +1,10 @@
 ---
 title: Anatomic (Surgical and Autopsy) Pathology, University of Minnesota Medical Center, Fairview, Riverside Campus 
 layout: default
+categories:
+- rotations
+- ap
+- required
 ---
 #  Anatomic (Surgical and Autopsy) Pathology, University of Minnesota Medical
 Center, Fairview, Riverside Campus

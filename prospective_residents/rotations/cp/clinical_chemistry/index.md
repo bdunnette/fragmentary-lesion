@@ -1,6 +1,10 @@
 ---
 title: Clinical Chemistry - University of Minnesota and Affiliated Hospitals 
 layout: default
+categories: 
+- rotations
+- cp
+- required
 ---
 #  Clinical Chemistry - University of Minnesota and Affiliated Hospitals
 

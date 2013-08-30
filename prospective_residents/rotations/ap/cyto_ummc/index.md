@@ -1,6 +1,10 @@
 ---
 title: Cytopathology, University of Minnesota Medical Center, Fairview, University and Riverside Campuses 
 layout: default
+categories:
+- rotations
+- ap
+- required
 ---
 #  Cytopathology, University of Minnesota Medical Center, Fairview, University
 and Riverside Campuses

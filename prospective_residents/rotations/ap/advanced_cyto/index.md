@@ -1,6 +1,10 @@
 ---
 title: Advanced Cytopathology at Hennepin County Medical Center 
 layout: default
+categories:
+- rotations
+- ap
+- elective
 ---
 #  Advanced Cytopathology at Hennepin County Medical Center
 

@@ -3,9 +3,6 @@ title: Administration
 layout: default
 published: true
 ---
-
-#  Administration
-
 #### Central Graduate Medical Education Program Administration
 
 **Department Head**  

@@ -1,11 +1,14 @@
 ---
 title: Cytopathology at Hennepin County Medical Center 
 layout: default
+categories:
+- rotations
+- ap
+- required
 ---
 #  Cytopathology at Hennepin County Medical Center
 
-![](../sites/default/files/styles/medium/public/hcmc.jpg?itok=Nku7bRTx)Contemp
-orary cytopathology is viewed as a clinically oriented subspecialty that aims
+Contemporary cytopathology is viewed as a clinically oriented subspecialty that aims
 to rapidly diagnose significant patient problems with atraumatically collected
 material. The goal is improved patient care through highly skilled application
 of the methods available in our discipline. This includes educating our

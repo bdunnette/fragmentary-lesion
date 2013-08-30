@@ -1,6 +1,10 @@
 ---
 title: Immunophenotyping and Flow Cytometry at University of Minnesota Medical Center, University Campus 
 layout: default
+categories: 
+- rotations
+- cp
+- elective
 ---
 #  Immunophenotyping and Flow Cytometry at University of Minnesota Medical
 Center, University Campus

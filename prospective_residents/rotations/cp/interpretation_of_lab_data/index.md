@@ -1,6 +1,10 @@
 ---
 title: Interpretation of Laboratory Data Course, University of Minnesota Medical School 
 layout: default
+categories: 
+- rotations
+- cp
+- elective
 ---
 #  Interpretation of Laboratory Data Course, University of Minnesota Medical
 School

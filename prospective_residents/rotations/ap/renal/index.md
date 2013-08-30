@@ -1,11 +1,14 @@
 ---
 title: Renal Pathology / Electron Microscopy at Hennepin County Medical Center 
 layout: default
+categories:
+- rotations
+- ap
+- required
 ---
 #  Renal Pathology / Electron Microscopy at Hennepin County Medical Center
 
-![](../sites/default/files/styles/medium/public/hcmc.jpg?itok=Nku7bRTx)The
-renal pathology elective rotation assures that residents understand and are
+The renal pathology rotation assures that residents understand and are
 able to perform and interpret results of the major morphologic procedures used
 to evaluate renal biopsies.
 

@@ -1,6 +1,10 @@
 ---
 title: Laboratory Management and Informatics Course 
 layout: default
+categories: 
+- rotations
+- cp
+- required
 ---
 #  Laboratory Management and Informatics Course
 

@@ -1,6 +1,10 @@
 ---
 title: Microbiology / Mycology / Parasitology / Virology - Multi-institutional Rotation 
 layout: default
+categories: 
+- rotations
+- cp
+- required
 ---
 #  Microbiology / Mycology / Parasitology / Virology - Multi-institutional
 Rotation

@@ -3,10 +3,7 @@ title: Training Sites
 layout: default
 published: true
 ---
-
-#  Training Sites
-
-## [Abbott Northwestern Hospital](../node/3918)
+### [Abbott Northwestern Hospital](ANW/)
 
 ![abbott_nw.jpg](/images/abbott_nw.jpg)
 
@@ -29,7 +26,7 @@ Maps](http://maps.google.com?q=800+E.+28th+St%2C+Minneapolis%2C+MN%2C+%2C+us)
 [http://www.allinahealth.org/ahs/anw.nsf/](http://www.allinahealth.org/ahs/anw
 .nsf/)
 
-## [Hennepin County Medical Center / Medical Examiner's Office](../node/3921)
+### [Hennepin County Medical Center / Medical Examiner's Office](HCMC/)
 
 ![hcmc.jpg](/images/hcmc.jpg)
 
@@ -58,7 +55,7 @@ s%2C+MN%2C+%2C+us)
 
 [http://www.hcmc.org/](http://www.hcmc.org/)
 
-## [University of Minnesota Medical Center, Fairview](../node/3919)
+### [University of Minnesota Medical Center, Fairview](UMMC/)
 
 ![ummcf.jpg](/images/ummcf.jpg)
 
@@ -73,7 +70,7 @@ active on-site blood bank donor center.
 
 [http://www.uofmmedicalcenter.org/](http://www.uofmmedicalcenter.org/)
 
-## [Veterans' Affairs Medical Center - Minneapolis](../node/3920)
+### [Veterans' Affairs Medical Center - Minneapolis](VA/)
 
 ![vamc.jpg](/images/vamc.jpg)
 

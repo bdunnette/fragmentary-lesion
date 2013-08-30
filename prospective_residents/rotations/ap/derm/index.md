@@ -1,6 +1,10 @@
 ---
 title: Dermatopathology at Twin Cities Dermatopathology 
 layout: default
+categories:
+- rotations
+- ap
+- required
 ---
 #  Dermatopathology at Twin Cities Dermatopathology
 

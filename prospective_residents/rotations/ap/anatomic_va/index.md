@@ -1,6 +1,10 @@
 ---
 title: Anatomic (Surgical and Autopsy) Pathology - Veterans' Affairs Medical Center, Minneapolis 
 layout: default
+categories:
+- rotations
+- ap
+- required
 ---
 #  Anatomic (Surgical and Autopsy) Pathology - Veterans' Affairs Medical
 Center, Minneapolis
@@ -11,35 +15,38 @@ handling, and fixation. The rotation provides exposure to a wide variety of
 cases to expand their microscopic diagnostic skills, with extra emphasis in
 the areas of lung, urinary bladder, prostate, and skin pathology.
 
-  * Institutional Site Director  
+#### Institutional Site Director  
+
 H. Evin Gulbahce, MD
 
-  * Coordinating Teaching Faculty Member  
-[Gloria Niehans, M.D.](http://pathology.umn.edu/about/faculty/niehans/)
+#### Coordinating Teaching Faculty Members
+
+* [Gloria Niehans, M.D.](http://pathology.umn.edu/about/faculty/niehans/)
 (Surgical Pathology)
 
-[Robin Solomon, M.D.](http://pathology.umn.edu/about/faculty/solomon/)
+* [Robin Solomon, M.D.](http://pathology.umn.edu/about/faculty/solomon/)
 (Autopsy Pathology)
 
-  * Other Affiliated Teaching Faculty Members  
-[Deniz Aslan, MD](http://pathology.umn.edu/about/faculty/aslan/)
+#### Other Affiliated Teaching Faculty Members  
 
-[Brian Berg, MD](http://pathology.umn.edu/about/faculty/berg/)
+* [Deniz Aslan, MD](http://pathology.umn.edu/about/faculty/aslan/)
 
-[Steven Ewing, M.D.](http://pathology.umn.edu/about/faculty/ewing/)
+* [Brian Berg, MD](http://pathology.umn.edu/about/faculty/berg/)
 
-[Carlos Iwamoto, MD](http://pathology.umn.edu/about/faculty/iwamoto/)
+* [Steven Ewing, M.D.](http://pathology.umn.edu/about/faculty/ewing/)
 
-  * Lead Technical and Clerical Personnel  
+* [Carlos Iwamoto, MD](http://pathology.umn.edu/about/faculty/iwamoto/)
+
+* Lead Technical and Clerical Personnel  
 Pathology Office: 612/725-2099
 
-  * Training Site:  
+* Training Site:  
 Laboratory Services, Veterans' Affairs Medical Center, Minneapolis
 
-  * Duration of Rotation:  
+* Duration of Rotation:  
 Three months (Surgical Pathology & Autopsy)
 
-  * Post Graduate Level of Residents Involved  
+* Post Graduate Level of Residents Involved  
 PGY 1-4
 
 #### Core Competencies

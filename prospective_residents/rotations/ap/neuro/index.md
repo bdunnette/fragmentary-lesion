@@ -1,6 +1,10 @@
 ---
 title: Neuropathology at University of Minnesota Medical Center, Fairview 
 layout: default
+categories:
+- rotations
+- ap
+- required
 ---
 #  Neuropathology at University of Minnesota Medical Center, Fairview
 

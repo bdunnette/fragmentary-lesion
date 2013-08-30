@@ -1,6 +1,10 @@
 ---
 title: Anatomic (Surgical and Autopsy) Pathology, Hennepin County Medical Center 
 layout: default
+categories:
+- rotations
+- ap
+- required
 ---
 #  Anatomic (Surgical and Autopsy) Pathology, Hennepin County Medical Center
 

@@ -1,6 +1,10 @@
 ---
 title: Hematopathology at University of Minnesota Medical Center, Fairview 
 layout: default
+categories: 
+- rotations
+- cp
+- required
 ---
 #  Hematopathology at University of Minnesota Medical Center, Fairview
 

@@ -1,9 +1,11 @@
 ---
-title: Blood Bank and Transfusion Medicine - Multi-institutional Rotation 
+title: Transfusion Medicine - Multi-institutional Rotation 
 layout: default
+categories: 
+- rotations
+- cp
+- required
 ---
-#  Blood Bank and Transfusion Medicine - Multi-institutional Rotation
-
 Residency training in Transfusion Medicine prepares a person to provide
 laboratory and clinical transfusion services at community basic and tertiary
 care hospitals and medical school based tertiary care centers. Further, it
@@ -568,6 +570,70 @@ are assigned. The residents also have access to on-line literature searching.
 
 #### Appendix A
 
-**Site:** Veteran's Administration Medical Center, Minneapolis, Minnesota.  
-**Goal/Objective:** The resident will define the basic opera
+**Site:** Veteran's Administration Medical Center, Minneapolis, Minnesota.
 
+**Goal/Objective:** The resident will define the basic operations of a hospital blood bank, the clinical transfusion service and the on-site blood collection program.
+
+**Length of Rotation:**  2 weeks.
+
+**Topics Covered:**  During the first week the resident will personally perform lab procedures: ABO/Rh typing, compatibility testing, antibody screening, antibody identification with panels. The resident, with supervision by the blood bank medical director will be the primary provider of clinical blood bank consultations or therapeutic apheresis and of medical decisions for blood collections.
+
+#### Appendix B
+
+**Site:** Hennepin County Medical Center, Minneapolis, Minnesota.
+
+**Goal/Objective:** The resident will identify the basic operations of a hospital blood bank and the clinical transfusion service. Special experience will be acquired determining RBC incompatibilities and transfusion patients with massive blood loss.
+
+**Length of Rotation:**  2 weeks on-site plus primary on-call duty nights and weekends for 2 months.
+
+**Topics Covered:**  The resident works closely with the blood bank medical director, John Crosson, M.D., provides clinical transfusion service duties (consults, component use appropriateness review, etc) under supervision by Dr. Crosson. Each morning the resident and blood bank medical director review with blood bank staff the events of the previous day, compatibility problems and antibody workups. The facility is the largest trauma center in Minnesota and the resident is responsible for managing blood transfusions in patients with massive transfusions.
+
+#### Appendix C
+
+**Site:** University of Minnesota Medical Center (primary teaching hospital of the University of Minnesota Medical School), Minneapolis, Minnesota.
+
+**Goal/Objective:** Comprehensive Clinical Transfusion Service Training in a busy tertiary care center and large transplant faculty (organs, marrow, etc.).
+
+**Length of Rotation:**  3 months.
+
+**Topics Covered:**  1. Clinical transfusion service. 2. Therapeutic apheresis. 3. Peripheral blood stem cell collection. 4. Therapeutic phlebotomy. 5. Stem cell processing, cryopreservation and infusion.
+
+#### Appendix D
+
+**Site:** American Red Cross North Central Blood Services, 100 South Robert Street, St. Paul, MN 55107, Phone: 651-291-6789.
+
+**Goal/Objective:** The resident will obtain a basic understanding of a regional blood center operations to collect and provide blood to hospitals and the regional reference lab for red cell, granulocyte and platelet antibody testing and incompatibility evaluations.
+
+**Length of Rotation:**  One and one half days.
+
+**Topics Covered:**  1. Donor recruitment. 2. Blood collection donor suitability determination. 3. Blood component preparation and processing, storage. 4. Neutrophil Serology Lab. 5. Platelet Serology Lab and platelet crossmatches. 6. Red Cell Reference Lab. 7. Role of Medical Director.
+
+#### Appendix E
+
+**Site:** American Red Cross National Testing Laboratory, 1919 Eagandale Blvd, Eagan, Minnesota 55121.
+
+**Goal/Objective:** To demonstrate the basic principles of blood donor infectious disease testing, ABO and Rh testing and red cell antibody testing.
+
+**Length of Rotation:**  One half day.
+
+**Topics Covered:**  By means of lecture and tour of facility: 1. Large scale, rapid throughput testing of blood donor samples for: A. ABO, Rh. B. red cell antibodies. C. ALT. D. Infectious disease (anti-HIV, anti-HCV, HBsAg, anti-HBc, anti-HTLV, HIV antigen, nucleic acid testing for HIV and HCV, syphilis). 2. The various enzyme immunoassays will be reviewed.
+
+#### Appendix F
+
+**Site:** Memorial Blood Centers of Minnesota, 2304 Park Ave. S., Minneapolis, MN 55404.
+
+**Goal/Objective:** To identify the basic principles of disputed parentage testing.
+
+**Length of Rotation:**  One half day.
+
+**Topics Covered:**  1. Sample chain of custody. 2. Disputed parentage testing, calculation of paternity index, and reporting.
+
+#### Appendix G
+
+**Site:** Lifesource - upper midwest organ procurement organization, St. Paul, Minnesota 55114.
+
+**Goal/Objective:** The resident will define the process of community provision of organs and tissues to patients in need and see the similarity to blood banking (donor recruitment, donor suitability determination, donation/collection, distribution and use).
+
+**Length of Rotation:**  One half day.
+
+**Topics Covered:**  1. Recognition and referral of recently deceased prospective cadaveric organ and tissue donors. 2. Cadaveric organ and tissue donor suitability determination: Medical and social history requirement. 3. Transplant associated testing. 4. Maintenance of a heart-beating, brain-dead organ donor in the ICU. 5. Organ procurement, use of biopsy. 6. Prospective organ recipient waiting list, selection criteria and organ allocation. 7. Relationship between organ procurement organization, tissue bank and eye bank.

@@ -1,6 +1,10 @@
 ---
 title: Anatomic (Surgical and Autopsy) Pathology at University of Minnesota Medical Center, Fairview, University Campus 
 layout: default
+categories:
+- rotations
+- ap
+- required
 ---
 #  Anatomic (Surgical and Autopsy) Pathology at University of Minnesota
 Medical Center, Fairview, University Campus

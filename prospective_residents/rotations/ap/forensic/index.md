@@ -1,6 +1,10 @@
 ---
 title: Forensic Pathology at Hennepin County Medical Examiner's Office 
 layout: default
+categories:
+- rotations
+- ap
+- required
 ---
 #  Forensic Pathology at Hennepin County Medical Examiner's Office
 

@@ -1,6 +1,10 @@
 ---
 title: Pediatric Pathology at Amplatz Children's Hospital 
 layout: default
+categories:
+- rotations
+- ap
+- required
 ---
 #  Pediatric Pathology at Amplatz Children's Hospital
 

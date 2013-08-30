@@ -1,6 +1,10 @@
 ---
 title: Advanced Toxicology at Hennepin County Medical Center 
 layout: default
+categories: 
+- rotations
+- cp
+- elective
 ---
 #  Advanced Toxicology at Hennepin County Medical Center
 
