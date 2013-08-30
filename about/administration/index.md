@@ -30,9 +30,9 @@ Jennifer McDaniel
 
 ##### Advisory Committee Members:
 
-* Stuart Cameron, M.D., Hennepin County Medical Center, Anatomic Pathology
-* John Crosson, M.D., Chair, GME Program Director, Hennepin County Medical Center, Anatomic and Clinical Pathology
-* H. Parry Dilworth, M.D., Abbott Northwestern Hospital, Anatomic and Clinical Pathology
+- Stuart Cameron, M.D., Hennepin County Medical Center, Anatomic Pathology
+- John Crosson, M.D., Chair, GME Program Director, Hennepin County Medical Center, Anatomic and Clinical Pathology
+- H. Parry Dilworth, M.D., Abbott Northwestern Hospital, Anatomic and Clinical Pathology
 * Michelle Dolan, M.D., University of Minnesota Medical Center, Fairview, Clinical Pathology, Associate Program Director
 * Patricia Ferrieri, M.D., University of Minnesota Medical Center, Fairview, Clinical Pathology
 * H. Evin Gulbahce, M.D., Veterans Affairs Medical Center
