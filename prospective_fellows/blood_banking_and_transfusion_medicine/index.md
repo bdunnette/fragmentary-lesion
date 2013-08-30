@@ -4,8 +4,6 @@ layout: default
 categories:
 - fellowships
 ---
-#  Blood Banking and Transfusion Medicine Fellowship
-
 This program involves the University of Minnesota Medical school, University
 of Minnesota Medical Center, Fairview, the Memorial Blood Centers of
 Minnesota, the American Red Cross North Central Blood Services of St. Paul,
@@ -26,64 +24,43 @@ such as immunology and coagulation is also available. As the fellow gains
 experience, more clinical duties and special projects are assigned. A second
 year of predominantly research is available for exceptional trainees.
 
-#### Teaching Faculty
 
-  * Program Director: [_J. Jeffrey McCullough, MD_](http://pathology.umn.edu/about/faculty/mccullough/)
-  * Blood Banking / Transfusion Medicine Teaching Faculty  
-_University of Minnesota Medical Center, Fairview:_
+### Program Director
 
-[J. Jeffrey McCullough,
-MD](http://pathology.umn.edu/about/faculty/mccullough/), Program Director and
-Professor, Variety Club Chair, and Director, Center for Molecular and Cellular
+[_J. Jeffrey McCullough, MD_](http://pathology.umn.edu/about/faculty/mccullough/)
+
+### Teaching Faculty
+#### University of Minnesota Medical Center, Fairview
+
+- [J. Jeffrey McCullough, MD](http://pathology.umn.edu/about/faculty/mccullough/), Program Director and Professor, Variety Club Chair, and Director, Center for Molecular and Cellular
 Therapy.
+- [David McKenna, Jr., MD](http://pathology.umn.edu/about/faculty/mckennad/), Associate Professor, Director, Divsion of Transfusion Medicine, Cell Therapy Lab, and Molecular & Cellular Therapeutics.
+- [Nicole Zantek, MD, PhD](http://pathology.umn.edu/about/faculty/zantek/), Assistant Professor, Director, Special Coagulation Laboratory.
+- [Shanna Morgan, MD](http://pathology.umn.edu/about/faculty/morgan/), Assistant Professor, Director, Apheresis and Donor Center.
+- [David H. Maurer, PhD](http://pathology.umn.edu/about/faculty/maurer/), dABHI, Director, HLA Lab.
+- [Claudia S. Cohn, MD, PhD](http://pathology.umn.edu/about/faculty/cohn/), Assistant Professor.
+- Agustin Dalmasso, MD, Professor.
 
-[David McKenna, Jr., MD](http://pathology.umn.edu/about/faculty/mckennad/),
-Associate Professor, Director, Divsion of Transfusion Medicine, Cell Therapy
-Lab, and Molecular & Cellular Therapeutics.
+#### Memorial Blood Centers of Minnesota
 
-[Nicole Zantek, MD, PhD](http://pathology.umn.edu/about/faculty/zantek/),
-Assistant Professor, Director, Special Coagulation Laboratory.
+- [Jed Gorlin, MD](http://pathology.umn.edu/about/faculty/gorlin/), Medical Director.
+- [Elizabeth Perry, MD](http://pathology.umn.edu/about/faculty/perry/), Associate Medical Director.
 
-[Shanna Morgan, MD](http://pathology.umn.edu/about/faculty/morgan/), Assistant
-Professor, Director, Apheresis and Donor Center.
+#### American Red Cross North Central Blood Services, St. Paul
 
-[David H. Maurer, PhD](http://pathology.umn.edu/about/faculty/maurer/), dABHI,
-Director, HLA Lab.
+- [David C. Mair, MD](http://pathology.umn.edu/about/faculty/mair/), Senior Medical Director.
+- [Gary Bachowski, MD](http://pathology.umn.edu/about/faculty/bachowski/), Assistant Medical Director.
+- Salima Shaikh, MD
 
-[Claudia S. Cohn, MD, PhD](http://pathology.umn.edu/about/faculty/cohn/),
-Assistant Professor.
+#### Veterans' Affairs Medical Center
 
-Agustin Dalmasso, MD, Professor.
+- [Sabeen Askari, MD, Medical Director](http://pathology.umn.edu/about/faculty/askari/)
 
-_Memorial Blood Centers of Minnesota:_
+#### Hennepin County Medical Center
 
-[Jed Gorlin, MD](http://pathology.umn.edu/about/faculty/gorlin/), Medical
-Director.
+- [John Crosson, MD, Medical Director](http://pathology.umn.edu/about/faculty/crosson/home.html)
 
-[Elizabeth Perry, MD](http://pathology.umn.edu/about/faculty/perry/),
-Associate Medical Director.
-
-_American Red Cross North Central Blood Services, St. Paul:_
-
-[David C. Mair, MD](http://pathology.umn.edu/about/faculty/mair/), Senior
-Medical Director.
-
-[Gary Bachowski, MD](http://pathology.umn.edu/about/faculty/bachowski/),
-Assistant Medical Director.
-
-Salima Shaikh, MD
-
-_Veterans' Affairs Medical Center:_
-
-[Sabeen Askari, MD, Medical
-Director](http://pathology.umn.edu/about/faculty/askari/)
-
-_Hennepin County Medical Center:_
-
-[John Crosson, MD, Medical
-Director](http://pathology.umn.edu/about/faculty/crosson/home.html)
-
-#### Teaching Facilities
+### Teaching Facilities
 
 University of Minnesota Medical Center, Fairview is a world leader in solid
 organ and hematologic stem cell transplantation and the treatment of
@@ -121,7 +98,7 @@ Hennepin County Medical Center provides advanced proficiency in trauma /
 massive transfusion practices, obstetric-associated transfusion practices, and
 the principles of a hospital transfusion service.
 
-#### Curriculum
+### Curriculum
 
 The goal of the fellowship in Transfusion Medicine and Blood Banking is to
 provide comprehensive training in transfusion medicine, immunohematology, and
@@ -192,9 +169,9 @@ individual rotation goals and objectives).
   5. Systems-based practice (SBP)
   6. Practice-based learning and improvement (PBLI)
 
-#### Rotation Objectives
+### Rotation Objectives
 
-University of Minnesota Medical Center (UMMC-FV)
+#### University of Minnesota Medical Center (UMMC-FV)
 
 The fellows spend eight months of the training year working with faculty at
 UMMC.
@@ -228,7 +205,7 @@ UMMC.
   * Recommend and perform transfusion practice audits (PC, PBLI)
   * Participate in continuing education program for technologists, physicians, providers within the department and institution (MK, PBLI, CS).
 
-Minneapolis Veterans Administration Medical Center (VAMC)
+#### Minneapolis Veterans Administration Medical Center (VAMC)
 
 The fellow spends one month working with transfusion and blood banking faculty
 at the VA. Upon completion of the rotation at the VAMC the fellow is expected
@@ -250,7 +227,7 @@ to:
   * Actively lead a hospital transfusion committee to facilitate communication between those involved with transfusion (PC, SBP, CS)
   * Recommend and perform transfusion practice audits using VA-specific standards (PC, PBLI)
 
-Hennepin County Medical Center
+#### Hennepin County Medical Center
 
 Upon completion of the HCMC rotation the fellow is expected to:
 
@@ -269,7 +246,7 @@ Upon completion of the HCMC rotation the fellow is expected to:
   * Recognize and manage coagulopathies associated with a variety of clinical conditions such as cardiovascular bypass, renal disease, liver disease, ECMO devices, etc (PC, MK).
   * Understand the various strategies for managing coagulation factor inhibitors (PC, MK).
 
-American Red Cross
+#### American Red Cross
 
 Blood banking and transfusion fellows spend one month working at the American
 Red Cross Blood donation center. Upon completion of this rotation it is
@@ -302,268 +279,3 @@ Memorial Blood Centers
   * Understand the overall aspects of regional distribution and control of blood supply (SBP).
   * Recognize and follow all confidentiality laws and requirements for reporting infectious disease markers to public health agencies (Prof, CS, SBP).
   * Understand the information management systems/requirements needed in a blood donation and banking facility (PC, SBP, CS)
-
-#### Major Topic Overview
-
-Topic Covered UMMCF VAMC ARC MBCM HCMC
-
-Blood groups
-
-
-•
-
-
-
-
-RBC antibody investigation
-
-•
-
-•
-
-•
-
-•
-
-
-Compatibility testing
-
-•
-
-•
-
-
-
-
-Donor recruitment
-
-
-
-•
-
-•
-
-
-Donor evaluation/selection
-
-
-
-•
-
-•
-
-
-Blood collection
-
-
-
-•
-
-•
-
-
-Component production
-
-
-
-•
-
-•
-
-
-Donor apheresis
-
-
-
-•
-
-•
-
-
-Autologous and directed donations
-
-
-
-•
-
-•
-
-
-Component therapy
-
-•
-
-
-
-
-•
-
-Clinical consultation
-
-•
-
-•
-
-
-
-•
-
-Trauma massive transfusion
-
-•
-
-
-
-
-•
-
-Coagulation/bleeding
-
-•
-
-•
-
-
-
-•
-
-Marrow transplantation
-
-•
-
-
-
-
-
-Obstetrics
-
-•
-
-
-
-
-
-Neonatal and pediatric transfusion
-
-•
-
-
-
-•
-
-
-Transfusion reactions
-
-•
-
-•
-
-
-
-•
-
-Therapeutic apheresis
-
-•
-
-
-
-
-
-Therapeutic phlebotomy
-
-•
-
-
-•
-
-•
-
-
-Intraoperative blood salvage
-
-•
-
-
-
-
-•
-
-Hematopoietic stem cell processing
-
-•
-
-
-
-
-
-Novel cell processing
-
-•
-
-
-
-
-
-HLA
-
-•
-
-
-
-
-
-Transfusion committee
-
-•
-
-•
-
-
-
-•
-
-Information systems
-
-•
-
-
-•
-
-•
-
-
-Administration & management
-
-•
-
-
-•
-
-•
-
-
-Blood utilization
-
-•
-
-
-
-
-•
-
-Regional inventory management
-
-
-
-•
-
-•
-
-
-Platelet and neutrophil serology
-
-
-
-•
-

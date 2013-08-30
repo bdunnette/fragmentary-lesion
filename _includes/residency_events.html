@@ -107,8 +107,6 @@ function listEvents(root, divId) {
     var start = entry['gd$when'][0].startTime;
 
     // get the URL to link to the event
-    console.log(entry.content.$t);
-    console.log(ValidURL(entry.content.$t));
     if (ValidURL(entry.content.$t)) {
         var entryLinkHref = entry.content.$t;
     } else {
@@ -120,13 +118,13 @@ function listEvents(root, divId) {
 
     // if we have a link to the event, create an 'a' element
     if (entryLinkHref != '') {
+      li.appendChild(document.createTextNode(dateString + ' - '));
       entryLink = document.createElement('a');
       entryLink.setAttribute('href', entryLinkHref);
       entryLink.appendChild(document.createTextNode(title));
       li.appendChild(entryLink);
-      li.appendChild(document.createTextNode(' - ' + dateString));
     } else {
-      li.appendChild(document.createTextNode(title + ' - ' + dateString));
+      li.appendChild(document.createTextNode(dateString + ' - ' + title));
     }	    
 
     // append the list item onto the unordered list

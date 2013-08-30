@@ -3,9 +3,6 @@ title: Prospective Fellows
 layout: default
 published: true
 ---
-
-#  Prospective Fellows
-
 ![]({{ site.baseurl }}/images/fellow_scanscope.jpg)The Department of Laboratory Medicine and Pathology
 fellowship programs offer advanced training in different areas of anatomic and
 clinical pathology. Fellows have responsibilities that are intermediate

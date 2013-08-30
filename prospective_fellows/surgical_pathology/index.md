@@ -4,21 +4,19 @@ layout: default
 categories:
 - fellowships
 ---
-#  Surgical Pathology Fellowship
-
 ## Mission
 
 The goal of this fellowship is to provide expertise in independent sign-out,
 diagnostic and prognostic advances, communication and management skills in
 surgical pathology to train future leaders in academia and community practice.
 
-## Teaching Faculty
+### Teaching Faculty
 
-### Program Director
+#### Program Director
 
-[Carlos Manivel, MD](http://pathology.umn.edu/about/faculty/manivel/)
+[Jon Ritter, M.D.](http://pathology.umn.edu/about/faculty/ritter/)
 
-### Anatomic Pathology Teaching Faculty
+#### Anatomic Pathology Teaching Faculty
 
   * [Khalid Amin, MD](http://pathology.umn.edu/about/faculty/khalidamin/)
   * [H. Brent Clark MD, PhD](http://pathology.umn.edu/about/faculty/clark/)
@@ -30,7 +28,7 @@ surgical pathology to train future leaders in academia and community practice.
   * [Jon Ritter, MD](http://pathology.umn.edu/about/faculty/ritter/)
   * [Alexander Truskinovsky, MD](http://pathology.umn.edu/about/faculty/truskinovsky/)
 
-## Program Highlights
+### Program Highlights
 
   * Two positions, each one year duration.
   * ACGME accredited.
@@ -62,10 +60,8 @@ friendly environment foster professional and personal growth.
 The purpose of this fellowship is to train well rounded surgical pathologists
 who will become the leaders in academia and community practice.
 
-#### ![](https://residency.pathology.umn.edu/modules/file/icons/application-
-pdf.png)[Program Curriculum](../sites/default/files/UMN_LMP_Surgical_Pathology
-_Fellowship_Curriculum.pdf)
+#### [Program Curriculum]({{site.baseurl}}/files/prospective_fellows/surg_path/UMN_LMP_Surgical_Pathology_Fellowship_Curriculum.pdf)
 
-For inquiries contact [Jennifer McDaniel](applying.1), GME Residency &
+For inquiries contact [Jennifer McDaniel](../applying/), GME Residency &
 Fellowship Administrator.
 
