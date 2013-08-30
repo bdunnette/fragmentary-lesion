@@ -26,9 +26,9 @@ Sally Sawyer
 **GME Program Administrator**  
 Jennifer McDaniel
 
-#### Residency and Clinical Fellowship Training Programs (R.A.F.T.)
+### Residency and Clinical Fellowship Training Programs (R.A.F.T.)
 
-##### Advisory Committee Members:
+#### Advisory Committee Members:
 
 - Stuart Cameron, M.D., Hennepin County Medical Center, Anatomic Pathology
 - John Crosson, M.D., Chair, GME Program Director, Hennepin County Medical Center, Anatomic and Clinical Pathology
